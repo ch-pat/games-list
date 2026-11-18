@@ -3688,5 +3688,11 @@
     "cover_url": "https://cdn2.steamgriddb.com/grid/fa24e94c437284e04d7abf973120c5a8.png",
     "cover_source": "https://www.steamgriddb.com/game/5262788",
     "cover_provider": "SteamGridDB"
+  },
+  "Ender Lilies: Quietus of the Knights": {
+    "_lookup_complete": true,
+    "release_date": "2021-06-22",
+    "release_year": 2021,
+    "_cover_lookup_complete": true
   }
 }
