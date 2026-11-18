@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://ch-pat.github.io/games-list/"
 defaultContentLanguage = "en"
 title = "Games I’ve Played"
 enableRobotsTXT = true
