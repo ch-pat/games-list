@@ -42,4 +42,13 @@ The script caches successful and missing lookups in `data/enrichment.json`, so l
 
 ## GitHub Pages
 
-The workflow in `.github/workflows/pages.yml` enriches the catalogue, builds Hugo, and deploys the result when changes are pushed to `main`. Enable GitHub Pages for the repository and select **GitHub Actions** as the build and deployment source.
+Build and push the local site with:
+
+```sh
+hugo --minify --baseURL "https://OWNER.github.io/REPOSITORY/"
+python scripts/deploy.py
+```
+
+The deploy script publishes the contents of `public/` at the root of the `gh-pages` branch. It preserves the branch's history and skips the push when the output is unchanged. The workflow in `.github/workflows/pages.yml` runs the same build and deploy steps on pushes to `main`.
+
+In the repository's **Settings → Pages**, select **Deploy from a branch**, choose `gh-pages`, and select `/(root)`. For a custom base URL, define a repository Actions variable named `HUGO_BASE_URL`.
