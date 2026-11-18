@@ -1896,7 +1896,9 @@
   },
   {
     "title": "Void Stranger",
-    "starred": true
+    "starred": true,
+    "favorite": true,
+    "play_year": 2024
   },
   {
     "title": "Celeste 64: Fragments of the Mountain"

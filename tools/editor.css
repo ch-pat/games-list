@@ -100,6 +100,7 @@ code {
 .toolbar input,
 .add-game input,
 .game-row input[type="text"],
+.game-row input[type="number"],
 .game-row textarea {
   min-width: 0;
   border: 1px solid var(--line);
@@ -155,7 +156,7 @@ button:disabled {
 
 .game-row {
   display: grid;
-  grid-template-columns: minmax(12rem, 1fr) minmax(16rem, 1.5fr) auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   align-items: start;
   gap: 1rem;
   padding: 1rem;
@@ -174,18 +175,25 @@ button:disabled {
   resize: vertical;
 }
 
-.star-field {
+.toggle-field {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  padding-top: 1.8rem;
+  min-height: 3.3rem;
+  padding-top: 1.45rem;
   white-space: nowrap;
 }
 
-.star-field input {
+.toggle-field input {
   accent-color: var(--gold);
   width: 1.1rem;
   height: 1.1rem;
+}
+
+.metadata-json {
+  min-height: 8rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.85rem;
 }
 
 .game-row[hidden] {
@@ -198,7 +206,7 @@ button:disabled {
     gap: 0.7rem;
   }
 
-  .star-field {
+  .toggle-field {
     padding-top: 0;
   }
 

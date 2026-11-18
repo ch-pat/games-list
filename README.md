@@ -25,7 +25,7 @@ For a local editing webpage, run:
 python scripts/edit_games.py
 ```
 
-Open the printed address in your browser. The editor listens only on `127.0.0.1`; it lets you add and rename games, toggle Hall of Fame status, and edit comments, then saves changes to `data/games.json`. Other game metadata is preserved. After adding or renaming games, run `python scripts/enrich_games.py` to update their cover and release-date lookups before building.
+Open the printed address in your browser. The editor listens only on `127.0.0.1`; it lets you add and rename games, set the Played year (new games default to the current year), and edit comments, platforms, dates, play time, release information, favorites, Hall of Fame status, and additional metadata, then saves changes to `data/games.json`. Additional metadata is edited as a JSON object and can be used for fields not shown by dedicated controls. After adding or renaming games, run `python scripts/enrich_games.py` to update their cover and release-date lookups before building.
 
 ## Build locally
 

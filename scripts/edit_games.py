@@ -38,8 +38,25 @@ def validate_games(games):
         titles.add(normalized_title)
         if "starred" in game and not isinstance(game["starred"], bool):
             raise ValueError(f"Game {index} has an invalid Hall of Fame value.")
+        if "favorite" in game and not isinstance(game["favorite"], bool):
+            raise ValueError(f"Game {index} has an invalid Favorite value.")
         if "comment" in game and not isinstance(game["comment"], str):
             raise ValueError(f"Game {index} comment must be text.")
+        for key in ("platform", "started_on", "beaten_on", "play_time", "release_date"):
+            if key in game and not isinstance(game[key], str):
+                raise ValueError(f"Game {index} {key} must be text.")
+        for key in ("play_year", "played_year", "release_year"):
+            if key in game and (
+                not isinstance(game[key], int)
+                or isinstance(game[key], bool)
+            ):
+                raise ValueError(f"Game {index} {key} must be an integer.")
+        if "platforms" in game:
+            platforms = game["platforms"]
+            if not isinstance(platforms, list) or not all(
+                isinstance(platform, str) for platform in platforms
+            ):
+                raise ValueError(f"Game {index} platforms must be a list of text.")
 
 
 class EditorHandler(BaseHTTPRequestHandler):

@@ -31,6 +31,20 @@ function makeField(labelText, control) {
   return wrapper;
 }
 
+function setTextMetadata(game, key, value) {
+  const trimmed = value.trim();
+  if (trimmed) game[key] = trimmed;
+  else delete game[key];
+}
+
+function setNumberMetadata(game, key, value) {
+  if (value.trim() === "") delete game[key];
+  else {
+    const number = Number(value);
+    if (Number.isInteger(number)) game[key] = number;
+  }
+}
+
 function renderGames() {
   gamesContainer.replaceChildren();
   games.forEach((game, index) => {
@@ -59,6 +73,104 @@ function renderGames() {
       updateSaveState();
     });
 
+    const playedYear = document.createElement("input");
+    playedYear.type = "number";
+    playedYear.min = "1900";
+    playedYear.max = "2100";
+    playedYear.step = "1";
+    playedYear.value = game.play_year ?? game.played_year ?? "";
+    playedYear.setAttribute("aria-label", `Played year for ${game.title}`);
+    playedYear.addEventListener("input", () => {
+      setNumberMetadata(games[index], "play_year", playedYear.value);
+      if (playedYear.value.trim() === "") delete games[index].played_year;
+      updateSaveState();
+    });
+
+    const platform = document.createElement("input");
+    platform.type = "text";
+    platform.value = game.platform ?? "";
+    platform.setAttribute("aria-label", `Platform for ${game.title}`);
+    platform.addEventListener("input", () => {
+      setTextMetadata(games[index], "platform", platform.value);
+      updateSaveState();
+    });
+
+    const platforms = document.createElement("input");
+    platforms.type = "text";
+    platforms.value = Array.isArray(game.platforms) ? game.platforms.join(", ") : "";
+    platforms.setAttribute("aria-label", `Platforms for ${game.title}`);
+    platforms.addEventListener("input", () => {
+      const values = platforms.value.split(",").map((value) => value.trim()).filter(Boolean);
+      if (values.length) games[index].platforms = values;
+      else delete games[index].platforms;
+      updateSaveState();
+    });
+
+    const startedOn = document.createElement("input");
+    startedOn.type = "text";
+    startedOn.value = game.started_on ?? "";
+    startedOn.placeholder = "YYYY-MM-DD";
+    startedOn.setAttribute("aria-label", `Started date for ${game.title}`);
+    startedOn.addEventListener("input", () => {
+      setTextMetadata(games[index], "started_on", startedOn.value);
+      updateSaveState();
+    });
+
+    const beatenOn = document.createElement("input");
+    beatenOn.type = "text";
+    beatenOn.value = game.beaten_on ?? "";
+    beatenOn.placeholder = "YYYY-MM-DD";
+    beatenOn.setAttribute("aria-label", `Beaten date for ${game.title}`);
+    beatenOn.addEventListener("input", () => {
+      setTextMetadata(games[index], "beaten_on", beatenOn.value);
+      updateSaveState();
+    });
+
+    const playTime = document.createElement("input");
+    playTime.type = "text";
+    playTime.value = game.play_time ?? "";
+    playTime.setAttribute("aria-label", `Play time for ${game.title}`);
+    playTime.addEventListener("input", () => {
+      setTextMetadata(games[index], "play_time", playTime.value);
+      updateSaveState();
+    });
+
+    const releaseDate = document.createElement("input");
+    releaseDate.type = "text";
+    releaseDate.value = game.release_date ?? "";
+    releaseDate.placeholder = "YYYY-MM-DD";
+    releaseDate.setAttribute("aria-label", `Release date for ${game.title}`);
+    releaseDate.addEventListener("input", () => {
+      setTextMetadata(games[index], "release_date", releaseDate.value);
+      updateSaveState();
+    });
+
+    const releaseYear = document.createElement("input");
+    releaseYear.type = "number";
+    releaseYear.min = "1900";
+    releaseYear.max = "2100";
+    releaseYear.step = "1";
+    releaseYear.value = game.release_year ?? "";
+    releaseYear.setAttribute("aria-label", `Release year for ${game.title}`);
+    releaseYear.addEventListener("input", () => {
+      setNumberMetadata(games[index], "release_year", releaseYear.value);
+      updateSaveState();
+    });
+
+    const favorite = document.createElement("input");
+    favorite.type = "checkbox";
+    favorite.checked = Boolean(game.favorite);
+    favorite.setAttribute("aria-label", `Mark ${game.title} as a favorite`);
+    favorite.addEventListener("change", () => {
+      if (favorite.checked) games[index].favorite = true;
+      else delete games[index].favorite;
+      updateSaveState();
+    });
+
+    const favoriteLabel = document.createElement("label");
+    favoriteLabel.className = "toggle-field";
+    favoriteLabel.append(favorite, document.createTextNode("Favorite"));
+
     const starred = document.createElement("input");
     starred.type = "checkbox";
     starred.checked = Boolean(game.starred);
@@ -70,13 +182,64 @@ function renderGames() {
     });
 
     const starLabel = document.createElement("label");
-    starLabel.className = "star-field";
-    const starText = document.createElement("span");
-    starText.textContent = "Hall of Fame";
-    starLabel.append(starred, starText);
+    starLabel.className = "toggle-field";
+    starLabel.append(starred, document.createTextNode("Hall of Fame"));
+
+    const knownKeys = new Set([
+      "title", "comment", "starred", "favorite", "play_year", "played_year",
+      "platform", "platforms", "started_on", "beaten_on", "play_time",
+      "release_date", "release_year",
+    ]);
+    const extraMetadata = {};
+    Object.entries(game).forEach(([key, value]) => {
+      if (!knownKeys.has(key)) extraMetadata[key] = value;
+    });
+
+    const metadata = document.createElement("textarea");
+    metadata.className = "metadata-json";
+    metadata.value = JSON.stringify(extraMetadata, null, 2);
+    metadata.setAttribute("aria-label", `Additional metadata for ${game.title}`);
+    metadata.placeholder = "{}";
+    metadata.addEventListener("input", () => {
+      try {
+        const parsed = JSON.parse(metadata.value);
+        if (parsed === null || Array.isArray(parsed) || typeof parsed !== "object") throw new Error();
+        Object.keys(game).forEach((key) => {
+          if (!knownKeys.has(key)) delete game[key];
+        });
+        Object.assign(game, parsed);
+        metadata.setCustomValidity("");
+      } catch {
+        metadata.setCustomValidity("Additional metadata must be a JSON object.");
+      }
+      updateSaveState();
+    });
+    metadata.addEventListener("blur", () => {
+      if (metadata.validity.valid) {
+        metadata.value = JSON.stringify(
+          Object.fromEntries(Object.entries(game).filter(([key]) => !knownKeys.has(key))),
+          null,
+          2,
+        );
+      }
+    });
 
     row.dataset.title = game.title.toLocaleLowerCase();
-    row.append(makeField("Game title", title), makeField("Comment", comment), starLabel);
+    row.append(
+      makeField("Game title", title),
+      makeField("Comment", comment),
+      makeField("Played", playedYear),
+      makeField("Platform", platform),
+      makeField("Platforms (comma-separated)", platforms),
+      makeField("Started", startedOn),
+      makeField("Beaten", beatenOn),
+      makeField("Play time", playTime),
+      makeField("Release date", releaseDate),
+      makeField("Release year", releaseYear),
+      favoriteLabel,
+      starLabel,
+      makeField("Additional metadata (JSON)", metadata),
+    );
     gamesContainer.append(row);
   });
   updateVisibleCount();
@@ -105,7 +268,7 @@ function addGame(event) {
     return;
   }
 
-  games.push({ title });
+  games.push({ title, play_year: new Date().getFullYear() });
   newGameTitle.value = "";
   addGameButton.disabled = true;
   searchInput.value = "";
@@ -126,6 +289,14 @@ async function loadGames() {
 }
 
 async function saveGames() {
+  const invalidMetadata = gamesContainer.querySelector(
+    ".metadata-json:invalid",
+  );
+  if (invalidMetadata) {
+    invalidMetadata.reportValidity();
+    setStatus("Fix the additional metadata JSON before saving.", true);
+    return;
+  }
   const savingGames = structuredClone(games);
   saveButton.disabled = true;
   setStatus("Saving…");
