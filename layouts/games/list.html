@@ -5,10 +5,12 @@
     <p class="eyebrow">The complete collection</p>
     <h1>{{ .Title }}</h1>
     <p>{{ .Description }}</p>
-    <p class="result-count">{{ len $games }} games</p>
+    <p class="result-count" data-result-count aria-live="polite">{{ len $games }} games</p>
   </section>
   <section class="catalogue" aria-label="Games">
     <div class="sort-bar">
+      <label for="game-filter">Filter games</label>
+      <input id="game-filter" type="search" data-filter-control placeholder="Search titles, typos are OK" autocomplete="off">
       <label for="game-sort">Sort by</label>
       <select id="game-sort" data-sort-control>
         <option value="title">Title (A–Z)</option>
@@ -23,5 +25,6 @@
         {{ partial "game-card.html" (dict "game" . "details" $details) }}
       {{ end }}
     </div>
+    <p class="empty-state" data-empty-state hidden>No games match that search. Try a shorter title or check the spelling.</p>
   </section>
 {{ end }}

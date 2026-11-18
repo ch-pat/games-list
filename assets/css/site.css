@@ -206,9 +206,27 @@ code {
   font: inherit;
 }
 
+.sort-bar input {
+  min-width: min(100%, 17rem);
+  border: 1px solid var(--line);
+  border-radius: 0.4rem;
+  padding: 0.5rem 0.65rem;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+}
+
+.sort-bar input::placeholder {
+  color: var(--muted);
+}
+
 .sort-help {
   color: var(--muted);
   font-size: 0.83rem;
+}
+
+.game-card[hidden] {
+  display: none;
 }
 
 .game-list {

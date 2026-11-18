@@ -19,6 +19,14 @@ Edit [`data/games.json`](data/games.json), the single source of game information
 
 The imported `started_on`, `beaten_on`, `play_time`, `platform`, and `comment` details are retained where present. Add `play_year`, `favorite`, and `starred` as you like. Use `platforms` instead of `platform` when a title has multiple platforms. Release dates can be set manually with `release_date` (or just `release_year`); the build-time lookup fills them where it finds a Wikidata publication date.
 
+For a local editing webpage, run:
+
+```sh
+python scripts/edit_games.py
+```
+
+Open the printed address in your browser. The editor listens only on `127.0.0.1`; it lets you add and rename games, toggle Hall of Fame status, and edit comments, then saves changes to `data/games.json`. Other game metadata is preserved. After adding or renaming games, run `python scripts/enrich_games.py` to update their cover and release-date lookups before building.
+
 ## Build locally
 
 Install Hugo Extended and Python 3. Generate a SteamGridDB API key from your [SteamGridDB profile](https://www.steamgriddb.com/profile/preferences), then set it locally:

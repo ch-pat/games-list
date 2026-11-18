@@ -3660,5 +3660,33 @@
     "cover_url": "https://cdn2.steamgriddb.com/grid/ea7aa54867536ef176426819ae221249.jpg",
     "cover_source": "https://www.steamgriddb.com/game/5497986",
     "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy Crystal Chronicles": {
+    "_lookup_complete": true,
+    "release_date": "2003-08-08",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/18c53f7bdbbd9ff7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5fa0a424f988e9ddfba28d8e417e7b84.png",
+    "cover_source": "https://www.steamgriddb.com/game/36981",
+    "cover_provider": "SteamGridDB"
+  },
+  "Baba is You": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e54a000c90a19dfb.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/23001e3a611e9d9ffc05cfb06c4dfc3f.png",
+    "cover_source": "https://www.steamgriddb.com/game/22797",
+    "cover_provider": "SteamGridDB"
+  },
+  "Arknights": {
+    "_lookup_complete": true,
+    "release_date": "2019-04-30",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/449b1d8bbbcda9b0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/fa24e94c437284e04d7abf973120c5a8.png",
+    "cover_source": "https://www.steamgriddb.com/game/5262788",
+    "cover_provider": "SteamGridDB"
   }
 }

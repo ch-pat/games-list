@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Games catalogue editor</title>
+    <link rel="stylesheet" href="/editor.css">
+    <script defer src="/editor.js"></script>
+  </head>
+  <body>
+    <main>
+      <header class="page-header">
+        <p class="eyebrow">Local only · Games I’ve Played</p>
+        <h1>Edit your catalogue</h1>
+        <p>Rename games, mark Hall of Fame titles, and add personal comments. Changes are saved to <code>data/games.json</code>.</p>
+      </header>
+      <section class="toolbar" aria-label="Catalogue controls">
+        <label for="game-search">Find a game</label>
+        <input id="game-search" type="search" placeholder="Filter by title" autocomplete="off">
+        <span id="game-count" class="muted" aria-live="polite"></span>
+        <button id="save-button" type="button" disabled>Save changes</button>
+      </section>
+      <form id="add-game-form" class="add-game">
+        <label for="new-game-title">Add a game</label>
+        <input id="new-game-title" type="text" placeholder="Enter a game title" autocomplete="off" required>
+        <button id="add-game-button" type="submit" disabled>Add game</button>
+      </form>
+      <p id="status" role="status" aria-live="polite">Loading catalogue…</p>
+      <section id="games" class="games" aria-label="Games"></section>
+    </main>
+  </body>
+</html>

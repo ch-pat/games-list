@@ -96,7 +96,8 @@
     "title": "Castlevania: Symphony of the Night",
     "started_on": "2020-02-29",
     "platform": "PS",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Crash Bandicoot 3 Warped",
@@ -174,7 +175,8 @@
     "title": "F-Zero GX",
     "started_on": "2020-02-29",
     "platform": "GCN",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "F-Zero Maximum Velocity",
@@ -189,7 +191,7 @@
     "play_year": 2020
   },
   {
-    "title": "Final Fantasy crystal cronichles",
+    "title": "Final Fantasy Crystal Chronicles",
     "started_on": "2020-02-29",
     "platform": "GCN",
     "play_year": 2020
@@ -534,7 +536,8 @@
     "title": "Mega Man Zero",
     "started_on": "2020-02-29",
     "platform": "GBA",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Mega Man Zero 3",
@@ -582,7 +585,8 @@
     "title": "Metal Gear Solid 3: Snake Eater",
     "started_on": "2020-02-29",
     "platform": "PS2",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Metal Slug 3",
@@ -606,7 +610,8 @@
     "title": "Metroid Fusion",
     "started_on": "2020-02-29",
     "platform": "GBA",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Metroid Prime",
@@ -666,7 +671,8 @@
     "title": "Monster Hunter Tri",
     "started_on": "2020-02-29",
     "platform": "Wii",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "More Brain Training",
@@ -942,7 +948,8 @@
     "title": "Resident Evil 4: Wii Edition",
     "started_on": "2020-02-29",
     "platform": "Wii",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Sega Mega Drive Collection",
@@ -1365,7 +1372,8 @@
   {
     "title": "Shin Megami Tensei IV",
     "started_on": "2020-03-20",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Shin Megami Tensei: Strange Journey Redux",
@@ -1385,7 +1393,8 @@
   {
     "title": "Celeste",
     "started_on": "2020-03-20",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Fire Emblem: Three Houses",
@@ -1475,7 +1484,8 @@
   {
     "title": "Zero Escape: Virtue's Last Reward",
     "started_on": "2020-03-21",
-    "play_year": 2020
+    "play_year": 2020,
+    "starred": true
   },
   {
     "title": "Zero Escape: Zero Time Dilemma",
@@ -1885,7 +1895,8 @@
     "title": "TEVI"
   },
   {
-    "title": "Void Stranger"
+    "title": "Void Stranger",
+    "starred": true
   },
   {
     "title": "Celeste 64: Fragments of the Mountain"
@@ -1993,7 +2004,8 @@
     "title": "Clair Obscur: Expedition 33"
   },
   {
-    "title": "Blue Prince"
+    "title": "Blue Prince",
+    "starred": true
   },
   {
     "title": "Shadowverse: Worlds Beyond"
@@ -2204,5 +2216,13 @@
   },
   {
     "title": "MONOMOON"
+  },
+  {
+    "title": "Baba is You",
+    "starred": true
+  },
+  {
+    "title": "Arknights",
+    "starred": true
   }
 ]
