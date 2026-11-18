@@ -1,0 +1,3664 @@
+{
+  "3D Classics: Excitebike": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ac45c3730f4752a8.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8172abf7bf555d497db67eadd7ac7e8a.png",
+    "cover_source": "https://www.steamgriddb.com/game/5294880",
+    "cover_provider": "SteamGridDB"
+  },
+  "999: Nine Hours, Nine Persons, Nine Doors": {
+    "_lookup_complete": true,
+    "release_date": "2009-12-10",
+    "release_year": 2009,
+    "_cover_lookup_complete": true
+  },
+  "Advance Wars": {
+    "_lookup_complete": true,
+    "release_date": "2001-09-10",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4916e5b5e4aac9a4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5cf6e0afb3ace3ff9cc8e3a71dca37e3.png",
+    "cover_source": "https://www.steamgriddb.com/game/34640",
+    "cover_provider": "SteamGridDB"
+  },
+  "Advance Wars 2: Black Hole Rising": {
+    "_lookup_complete": true,
+    "release_date": "2003-06-24",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/49fcfb5fc5821e83.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d47f99f437cb40af762031d8d93ec885.png",
+    "cover_source": "https://www.steamgriddb.com/game/36275",
+    "cover_provider": "SteamGridDB"
+  },
+  "Advance Wars: Dark Conflict": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Animal Crossing": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/da3a5aab011cf3c3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d9e16849e6c8440f27574666b9e9735a.png",
+    "cover_source": "https://www.steamgriddb.com/game/34931",
+    "cover_provider": "SteamGridDB"
+  },
+  "Animal Crossing Wild World": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4ed66a6e84aa864c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3b16ba31dd3221344e011b18e4b1043d.png",
+    "cover_source": "https://www.steamgriddb.com/game/36279",
+    "cover_provider": "SteamGridDB"
+  },
+  "Another Code": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Ape Escape 2": {
+    "_lookup_complete": true,
+    "release_date": "2002-07-18",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bb238c7918a20f6e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/056034ae9f3487c7e16e4939a5381228.png",
+    "cover_source": "https://www.steamgriddb.com/game/1989",
+    "cover_provider": "SteamGridDB"
+  },
+  "Ape Escape 3": {
+    "_lookup_complete": true,
+    "release_date": "2005-07-14",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/54a49469ce6db853.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b1d535203b94b96ac8b7ee37a8347723.png",
+    "cover_source": "https://www.steamgriddb.com/game/36277",
+    "cover_provider": "SteamGridDB"
+  },
+  "Arc Rise Fantasia": {
+    "_lookup_complete": true,
+    "release_date": "2009-06-04",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/56e2ba8e6e8d3cf7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0669c8df48582122eb13070d6d911ca1.png",
+    "cover_source": "https://www.steamgriddb.com/game/36000",
+    "cover_provider": "SteamGridDB"
+  },
+  "Azure Dreams": {
+    "_lookup_complete": true,
+    "release_date": "1997-11-13",
+    "release_year": 1997,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0c920c007a1ac0e6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a0be20c42f7633926792393d248ddadc.png",
+    "cover_source": "https://www.steamgriddb.com/game/34834",
+    "cover_provider": "SteamGridDB"
+  },
+  "Banjo Kazooie": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/14583438fedd02d4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a154a70f923c579313aa9c47ed7c34e2.png",
+    "cover_source": "https://www.steamgriddb.com/game/35564",
+    "cover_provider": "SteamGridDB"
+  },
+  "Billy Hatcher and The Giant Egg": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8f34bedce5fc81d6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/00e71fa1a94269bb93176ca5701fc867.png",
+    "cover_source": "https://www.steamgriddb.com/game/38837",
+    "cover_provider": "SteamGridDB"
+  },
+  "Boktai: The Sun Is In Your Hand": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0009d693fbb1f6f4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/543aed787cac2df5cab649947c2d641a.png",
+    "cover_source": "https://www.steamgriddb.com/game/36493",
+    "cover_provider": "SteamGridDB"
+  },
+  "Castlevania: Symphony of the Night": {
+    "_lookup_complete": true,
+    "release_date": "1997-03-20",
+    "release_year": 1997,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0969a52cbcc9a999.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/13e50e203d8be253cc8cd7fbe1509c63.png",
+    "cover_source": "https://www.steamgriddb.com/game/37654",
+    "cover_provider": "SteamGridDB"
+  },
+  "Crash Bandicoot 3 Warped": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8a7f4a91dd80b22b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/04514b9893dd1719269aea025015ebe9.png",
+    "cover_source": "https://www.steamgriddb.com/game/35404",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dark Chronicle": {
+    "_lookup_complete": true,
+    "release_date": "2002-11-28",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/64748a10dcd71b4c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/aa7722e5ecf93d5eb5f8aee1e20a3990.png",
+    "cover_source": "https://www.steamgriddb.com/game/5209448",
+    "cover_provider": "SteamGridDB"
+  },
+  "Devil's Crush": {
+    "_lookup_complete": true,
+    "release_date": "1990-07-20",
+    "release_year": 1990,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/24b8a4a9cfe3848a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d865e6a76cb078cd41bd20df8f9867f1.png",
+    "cover_source": "https://www.steamgriddb.com/game/5256408",
+    "cover_provider": "SteamGridDB"
+  },
+  "Digimon World 3": {
+    "_lookup_complete": true,
+    "release_date": "2002-06-05",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ad2c8980247b4334.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/41f739730d019057c617cd8b03c18d60.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/35434",
+    "cover_provider": "SteamGridDB"
+  },
+  "Digimon World 4": {
+    "_lookup_complete": true,
+    "release_date": "2005-01-06",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e46b5a778246b0aa.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/30f0ee7506ea1aa9a139c6b4262197c6.png",
+    "cover_source": "https://www.steamgriddb.com/game/35917",
+    "cover_provider": "SteamGridDB"
+  },
+  "Disgaea DS": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e26dc314d191f563.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/222406d1b25df9fddbf0492cee25cac4.png",
+    "cover_source": "https://www.steamgriddb.com/game/33983",
+    "cover_provider": "SteamGridDB"
+  },
+  "Donkey Kong 64": {
+    "_lookup_complete": true,
+    "release_date": "1999-11-22",
+    "release_year": 1999,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3f62b9c053b1b818.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/86f7d456aa5848c284f7940bdecdef5d.png",
+    "cover_source": "https://www.steamgriddb.com/game/37695",
+    "cover_provider": "SteamGridDB"
+  },
+  "Donkey Kong Country Returns": {
+    "_lookup_complete": true,
+    "release_date": "2010-11-21",
+    "release_year": 2010,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a685ccebe2e3cfc6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5e3201e74613bc006dc8b2fcf8d80ff5.png",
+    "cover_source": "https://www.steamgriddb.com/game/36288",
+    "cover_provider": "SteamGridDB"
+  },
+  "Eternal Eyes": {
+    "_lookup_complete": true,
+    "release_date": "2000-11-30",
+    "release_year": 2000,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cb12a0bc28091d06.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4202174d5e3b34e2b7b4ffb230604938.png",
+    "cover_source": "https://www.steamgriddb.com/game/36869",
+    "cover_provider": "SteamGridDB"
+  },
+  "Etrian Odyssey III: The Drowned City": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2e8512a7e090bb8f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f53d0ce77df68306b6aaae600e444355.png",
+    "cover_source": "https://www.steamgriddb.com/game/38031",
+    "cover_provider": "SteamGridDB"
+  },
+  "Excite Truck": {
+    "_lookup_complete": true,
+    "release_date": "2006-11-19",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/851e0d738a3ad2be.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ba723526105dab1eed97be7998f68a8c.png",
+    "cover_source": "https://www.steamgriddb.com/game/5252916",
+    "cover_provider": "SteamGridDB"
+  },
+  "F-Zero Gp Legend": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ca0dc16f16bced6d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4c57b32df445d8f64c4517de028ff957.png",
+    "cover_source": "https://www.steamgriddb.com/game/34926",
+    "cover_provider": "SteamGridDB"
+  },
+  "F-Zero GX": {
+    "_lookup_complete": true,
+    "release_date": "2003-07-25",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fbb8936ddcd10b68.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c8b79b414976ddca72cb73582ac889d3.png",
+    "cover_source": "https://www.steamgriddb.com/game/4581",
+    "cover_provider": "SteamGridDB"
+  },
+  "F-Zero Maximum Velocity": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/74598476cd77b058.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/df8a556dc9f2b60a71e7d38d1dcebfc9.png",
+    "cover_source": "https://www.steamgriddb.com/game/35673",
+    "cover_provider": "SteamGridDB"
+  },
+  "F-Zero X": {
+    "_lookup_complete": true,
+    "release_date": "1998-07-14",
+    "release_year": 1998,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6d1c3fdd63b1e7b1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/652e2fd3b2fa943f2b4ff310e419d7f2.png",
+    "cover_source": "https://www.steamgriddb.com/game/38893",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy crystal cronichles": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Final Fantasy IX": {
+    "_lookup_complete": true,
+    "release_date": "2000-07-07",
+    "release_year": 2000,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8744bd9959a0a8e3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/afd61904eb25c8efcf646d0b04c521f9.png",
+    "cover_source": "https://www.steamgriddb.com/game/8025",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy VIII": {
+    "_lookup_complete": true,
+    "release_date": "1999-02-11",
+    "release_year": 1999,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8f11ac84518e2518.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6a8df01cf0d21e57333bbaa108877383.png",
+    "cover_source": "https://www.steamgriddb.com/game/8639",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy X": {
+    "_lookup_complete": true,
+    "release_date": "2001-07-19",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b678a6f29537b572.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/95831099d5d2171aea50c24de5332f73.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/36552",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy X-2": {
+    "_lookup_complete": true,
+    "release_date": "2003-03-13",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b1eacc29ab8049bb.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e71724f2e5114f51bb81c1403e09a142.png",
+    "cover_source": "https://www.steamgriddb.com/game/36848",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy XII": {
+    "_lookup_complete": true,
+    "release_date": "2006-03-16",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/198e98c03f4a527c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d58002a1b2c0788168fc492bea8ead63.png",
+    "cover_source": "https://www.steamgriddb.com/game/37820",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem Awakening": {
+    "_lookup_complete": true,
+    "release_date": "2012-04-19",
+    "release_year": 2012,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a58eb9bded9fb64d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7961f44653b3a08379349e2c8e1ff14d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5246426",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem The Sacred Stones": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b0429784ffdcb3dc.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5b0663d2219eb76a6429291c85f74382.png",
+    "cover_source": "https://www.steamgriddb.com/game/21146",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem: New Mystery of the Emblem ~ Heroes of Light and Shadow ~": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c5b3099126350687.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/14003dbbd44d5d126c2ffdcd5ac22973.png",
+    "cover_source": "https://www.steamgriddb.com/game/5299963",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem: Radiant Dawn": {
+    "_lookup_complete": true,
+    "release_date": "2007-02-22",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f7b3cad46a69add5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/26170ad58903cf9b5ba8085ca4d8fd92.png",
+    "cover_source": "https://www.steamgriddb.com/game/37698",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem: Shadow Dragon": {
+    "_lookup_complete": true,
+    "release_date": "2008-08-07",
+    "release_year": 2008,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/55e27c5f2d70549e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/194f71f3f322c4bbe1bd7b9d71285142.png",
+    "cover_source": "https://www.steamgriddb.com/game/35331",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fragile Dreams: Farewell Ruins of the Moon": {
+    "_lookup_complete": true,
+    "release_date": "2009-01-22",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/da4ebb56a6ae3d32.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2238956ae11c7b0145de78f1776d329b.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5260161",
+    "cover_provider": "SteamGridDB"
+  },
+  "Goemon's Great Adventure": {
+    "_lookup_complete": true,
+    "release_date": "1998-12-23",
+    "release_year": 1998,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/51ed79db46a87693.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/69b717a1d64f62465d96885dcaf9a77d.png",
+    "cover_source": "https://www.steamgriddb.com/game/33690",
+    "cover_provider": "SteamGridDB"
+  },
+  "Golden Sun": {
+    "_lookup_complete": true,
+    "release_date": "2001-11-11",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ff88e056760b66de.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/fc37c234a9b820027243ea2255da90b7.png",
+    "cover_source": "https://www.steamgriddb.com/game/37072",
+    "cover_provider": "SteamGridDB"
+  },
+  "Golden Sun 2: The Lost Age": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Golden Sun Dark Dawn": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b556c1ae10e14149.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2cc91799611a4e93ba7aac0f0a43d13b.png",
+    "cover_source": "https://www.steamgriddb.com/game/34010",
+    "cover_provider": "SteamGridDB"
+  },
+  "Goldeneye 007": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3c9a7c54f777a374.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f0971d67a49ade9bab406f7664e8129d.png",
+    "cover_source": "https://www.steamgriddb.com/game/34306",
+    "cover_provider": "SteamGridDB"
+  },
+  "Grandia": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2e0cad5d2842f111.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/fe01510fb7d4c07b927942d9a69f7150.png",
+    "cover_source": "https://www.steamgriddb.com/game/21166",
+    "cover_provider": "SteamGridDB"
+  },
+  "Grandia II": {
+    "_lookup_complete": true,
+    "release_date": "2000-08-03",
+    "release_year": 2000,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3500b54592f74fe6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/59cf4bbdf30366f6ac81254d58b47318.png",
+    "cover_source": "https://www.steamgriddb.com/game/36113",
+    "cover_provider": "SteamGridDB"
+  },
+  "Jak II": {
+    "_lookup_complete": true,
+    "release_date": "2003-10-14",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8d49b4be9801e8ee.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/67111ba17799dbe2a3d3a58657de7060.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/36801",
+    "cover_provider": "SteamGridDB"
+  },
+  "Kingdom Hearts I": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Kingdom Hearts II": {
+    "_lookup_complete": true,
+    "release_date": "2005-12-22",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/386988d94061fce3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bab223d4fb222c2dab24353aec87ba91.png",
+    "cover_source": "https://www.steamgriddb.com/game/38653",
+    "cover_provider": "SteamGridDB"
+  },
+  "Kirby & The Amazing Mirror": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6cb9ec87dcc536ed.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/950f66a3fafa122488785a9728ae6f14.png",
+    "cover_source": "https://www.steamgriddb.com/game/36319",
+    "cover_provider": "SteamGridDB"
+  },
+  "Kirby's Adventure": {
+    "_lookup_complete": true,
+    "release_date": "1993-03-23",
+    "release_year": 1993,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3ca6a1c2e7910376.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/549fbcedc81aeae88e6f566545d7baf3.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/33717",
+    "cover_provider": "SteamGridDB"
+  },
+  "Klonoa: Door to Phantomile": {
+    "_lookup_complete": true,
+    "release_date": "1997-12-11",
+    "release_year": 1997,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d0afbf8e036024cc.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f571a5dc0a3dc67c36a15651f34e60c4.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/36328",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Last Story": {
+    "_lookup_complete": true,
+    "release_date": "2011-01-27",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1e1b2871b0ccd74b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c12fb5789458a9052213673b22415af1.png",
+    "cover_source": "https://www.steamgriddb.com/game/35",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda": {
+    "_lookup_complete": true,
+    "release_date": "1986-02-21",
+    "release_year": 1986,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8845ba6507a2d27b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e49cc7c344acaf1160fd6c2a0190f056.png",
+    "cover_source": "https://www.steamgriddb.com/game/38050",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda The Wind Waker": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/81e3ac5babddec6c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/304678bd2a45713cc7bfcb1a9e19c8e4.png",
+    "cover_source": "https://www.steamgriddb.com/game/37510",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda Ocarina of Time": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fdbf5f15bd5fc67f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f711cc70dbdab88f32389ec84e56a242.png",
+    "cover_source": "https://www.steamgriddb.com/game/21202",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda Ocarina of Time - Master Quest": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/77582ff2694aeff5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bbcf722080c4e7b8d4cc81611a0facb0.png",
+    "cover_source": "https://www.steamgriddb.com/game/37680",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda The Four Swords": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "The Legend of Zelda : collector's edition": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4dac89fe0b6cf110.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2fe05636a938e536394acf52aa1551ac.png",
+    "cover_source": "https://www.steamgriddb.com/game/36040",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend Of Zelda : Four Sword Adventures": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "The Legend Of Zelda : Phantom Hourglass": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4a33a6dc0b9f2d7b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dc9b1f479f6893e3b4d2c5efc3fb0f05.png",
+    "cover_source": "https://www.steamgriddb.com/game/38076",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend Of Zelda Twilight Princess": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6aa632a8a5762d36.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/36d6a670240681fbbf69cbba0c9065ce.png",
+    "cover_source": "https://www.steamgriddb.com/game/34645",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda: A Link To The Past ▼": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/da89a4749c0269df.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7edaadde50012f0860952123564eb1ba.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/38124",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend Of Zelda: Minish Cap": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Liberation Maiden": {
+    "_lookup_complete": true,
+    "release_date": "2012-10-04",
+    "release_year": 2012,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d4804e2fd3e8c03d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a33a9a51e8f8b8acc203cabeb0295ed8.png",
+    "cover_source": "https://www.steamgriddb.com/game/5304042",
+    "cover_provider": "SteamGridDB"
+  },
+  "Luigi's Mansion": {
+    "_lookup_complete": true,
+    "release_date": "2001-09-14",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/76ac9a3c6a35de2c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ac7c433007ac68a863d12dd75b2d13eb.png",
+    "cover_source": "https://www.steamgriddb.com/game/38627",
+    "cover_provider": "SteamGridDB"
+  },
+  "Lunar Knights": {
+    "_lookup_complete": true,
+    "release_date": "2006-11-22",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/67dad4b8e80ccc87.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/40fad4cb54cd826bb6aff020e6824b01.png",
+    "cover_source": "https://www.steamgriddb.com/game/38854",
+    "cover_provider": "SteamGridDB"
+  },
+  "Lylatwars": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Mad Father": {
+    "_lookup_complete": true,
+    "release_date": "2012",
+    "release_year": 2012,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/94bbb8687b62b1b5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0c5d6c34154abb43427d3fa247a396b7.png",
+    "cover_source": "https://www.steamgriddb.com/game/12183",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario & Luigi Superstar Saga": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f6d6d86dd4f6391c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8164a0c13d70c3caee61a85d035d5f25.png",
+    "cover_source": "https://www.steamgriddb.com/game/38012",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario & Yoshi": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Mario Kart 64": {
+    "_lookup_complete": true,
+    "release_date": "1997-06-24",
+    "release_year": 1997,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f5a4adc59452ac4d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8908077ce7fd405516d81c2c929de429.png",
+    "cover_source": "https://www.steamgriddb.com/game/21164",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Kart 7": {
+    "_lookup_complete": true,
+    "release_date": "2011-12-01",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bab63509e1db27e4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/73c2aa11e36f2c92f68f08653503370c.png",
+    "cover_source": "https://www.steamgriddb.com/game/35506",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Kart 8": {
+    "_lookup_complete": true,
+    "release_date": "2014-05-29",
+    "release_year": 2014,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c68751a2aad871bb.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/08685bf36516348b810ede4e3c1dfe52.png",
+    "cover_source": "https://www.steamgriddb.com/game/34744",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Kart Double Dash": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2896003701b280be.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c22ad3828656e72b71489a0e3b20df58.png",
+    "cover_source": "https://www.steamgriddb.com/game/36068",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Kart DS": {
+    "_lookup_complete": true,
+    "release_date": "2005-11-14",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3265cda69516c715.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3eed6d27b0b2dd008c1be88cce8245fc.png",
+    "cover_source": "https://www.steamgriddb.com/game/25624",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Kart Super Circuit": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a5cd9156d6e58473.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/83d788e65786046542c9354d17b92450.png",
+    "cover_source": "https://www.steamgriddb.com/game/35520",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Party 4": {
+    "_lookup_complete": true,
+    "release_date": "2002-10-21",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f10250f785c928bd.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/34ee49ced5744eeb86d6e8e9661634aa.png",
+    "cover_source": "https://www.steamgriddb.com/game/33887",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Party 5": {
+    "_lookup_complete": true,
+    "release_date": "2003-11-10",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f18123d2ec2a6a7e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3bd4c0027a06d2b4c691ae29c317e5d2.png",
+    "cover_source": "https://www.steamgriddb.com/game/10",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Party 6": {
+    "_lookup_complete": true,
+    "release_date": "2004-11-18",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8c07cda5e18218fd.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1a2ba95b9b89cb8d9ce110d93bf3fa77.png",
+    "cover_source": "https://www.steamgriddb.com/game/36364",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Party 7": {
+    "_lookup_complete": true,
+    "release_date": "2005-11-07",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2ea3fbde309b3bec.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bb9bd43af0e81257a5d156a5411ebce7.png",
+    "cover_source": "https://www.steamgriddb.com/game/38269",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Party 8": {
+    "_lookup_complete": true,
+    "release_date": "2007-05-29",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e34d7f8a92bf0b97.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/eae846c7d1ca51474ebc7230ace47bf2.png",
+    "cover_source": "https://www.steamgriddb.com/game/34572",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario vs. Donkey Kong": {
+    "_lookup_complete": true,
+    "release_date": "2004-05-24",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e2f7e96448105dfa.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5e80df328f8ea95031018b02920b7cf6.png",
+    "cover_source": "https://www.steamgriddb.com/game/37306",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man X": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e63bcec242ca90a1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e24927b595bdddebb71671d11f76f067.png",
+    "cover_source": "https://www.steamgriddb.com/game/35466",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man Zero": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/50290935d76c055b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a60885f9e7b627bd7950f40f4acc824b.png",
+    "cover_source": "https://www.steamgriddb.com/game/38780",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man Zero 3": {
+    "_lookup_complete": true,
+    "release_date": "2004-04-23",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/252d00fb6c4076bc.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/885fa5d204701e6e00b4252f7fa98a52.png",
+    "cover_source": "https://www.steamgriddb.com/game/37860",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man Zero 4": {
+    "_lookup_complete": true,
+    "release_date": "2005-04-21",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/df7e41f3ad21fbb1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/47af894d173c553e6eec6260b34663a9.png",
+    "cover_source": "https://www.steamgriddb.com/game/38395",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man ZX": {
+    "_lookup_complete": true,
+    "release_date": "2006-07-06",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/42922ec814921960.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/848115676618836e7959dd6909273d4d.png",
+    "cover_source": "https://www.steamgriddb.com/game/34314",
+    "cover_provider": "SteamGridDB"
+  },
+  "Megaman 8": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Megaman X5": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Metal Gear Solid": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/aa7ccf66a7898828.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3ac4511ba0302570efea191ea1a2d0b4.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/34558",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metal Gear Solid 2: Substance": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f64b06a1585aaba0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/45817c35d189d792c40320b2f8289d7e.png",
+    "cover_source": "https://www.steamgriddb.com/game/36520",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metal Gear Solid 3: Snake Eater": {
+    "_lookup_complete": true,
+    "release_date": "2004-11-17",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/5ff7630183d074fd.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e081a744d57449a7ea5b84935e1adb9c.png",
+    "cover_source": "https://www.steamgriddb.com/game/37286",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metal Slug 3": {
+    "_lookup_complete": true,
+    "release_date": "2000-03-23",
+    "release_year": 2000,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e427be6b2f2d76af.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a49646ec0f73e4f4d604ace0f5772dfb.png",
+    "cover_source": "https://www.steamgriddb.com/game/3006",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metal Slug 4": {
+    "_lookup_complete": true,
+    "release_date": "2002-06-12",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/132ed75e69322df1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1549586c33cbaa0c0b9f9db750b8768b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5249361",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid": {
+    "_lookup_complete": true,
+    "release_date": "1986-08-06",
+    "release_year": 1986,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/53bc01089b0d2563.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3f1f477b13ae93243c16cc90e518ee09.png",
+    "cover_source": "https://www.steamgriddb.com/game/12911",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Fusion": {
+    "_lookup_complete": true,
+    "release_date": "2002-11-17",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/172dd12bab0c9697.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1883a19a4983372e803beab695ee77f1.png",
+    "cover_source": "https://www.steamgriddb.com/game/37371",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Prime": {
+    "_lookup_complete": true,
+    "release_date": "2003-02-28",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b102843ea61139ae.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0327d825efc9703e56afaa2e9e1cef9e.png",
+    "cover_source": "https://www.steamgriddb.com/game/37640",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Prime 2 : Echoes": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e633c197d9f436d8.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a811009cca17955a869190961a215997.png",
+    "cover_source": "https://www.steamgriddb.com/game/36244",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Prime 3: Corruption": {
+    "_lookup_complete": true,
+    "release_date": "2007-08-27",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b85af60706ecb31d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/054a8689760e13c71a174684335021ec.png",
+    "cover_source": "https://www.steamgriddb.com/game/37532",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Prime Hunters": {
+    "_lookup_complete": true,
+    "release_date": "2006-03-20",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a3e00c1dad900c0b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bfa22713f10ab2395b2edc4555fb072e.png",
+    "cover_source": "https://www.steamgriddb.com/game/34541",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid: Other M": {
+    "_lookup_complete": true,
+    "release_date": "2010-08-31",
+    "release_year": 2010,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b43068f9ae180f0a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cf4aa1d389db2d82136f8bf8e0fc1731.png",
+    "cover_source": "https://www.steamgriddb.com/game/37462",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mighty Switch Force": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d3d3b62f5261814a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5d5827c2f78ff2990586d65fbc08acb1.png",
+    "cover_source": "https://www.steamgriddb.com/game/5276746",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Misadventures of Tron Bonne": {
+    "_lookup_complete": true,
+    "release_date": "1999-07-22",
+    "release_year": 1999,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/840d6dd22224bb85.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a3dea493bbe0e9e246702717cf41c5ad.png",
+    "cover_source": "https://www.steamgriddb.com/game/37333",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter 3 Ultimate": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c2f69740178b2769.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0875f77f3cae196db406516e429e646d.png",
+    "cover_source": "https://www.steamgriddb.com/game/36834",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter 4 Ultimate": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1f9c62226412b555.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2c62579aca22484241593050908a30be.png",
+    "cover_source": "https://www.steamgriddb.com/game/5252764",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter Tri": {
+    "_lookup_complete": true,
+    "release_date": "2009-08-01",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/11a3962f5831f9ed.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8aee574231ae3a2b39d11638a15022f4.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/34724",
+    "cover_provider": "SteamGridDB"
+  },
+  "More Brain Training": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "New Super Mario Bros.": {
+    "_lookup_complete": true,
+    "release_date": "2006-05-15",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3e843d51a742264b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e9720a717745574cd81f22b988c3d190.png",
+    "cover_source": "https://www.steamgriddb.com/game/37981",
+    "cover_provider": "SteamGridDB"
+  },
+  "New Super Mario Bros. Wii": {
+    "_lookup_complete": true,
+    "release_date": "2009-11-11",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bee242e437cc25a1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/daa4c479f8ca6bccf503a440032e72c2.png",
+    "cover_source": "https://www.steamgriddb.com/game/37961",
+    "cover_provider": "SteamGridDB"
+  },
+  "Nintendogs": {
+    "_lookup_complete": true,
+    "release_date": "2005-04-21",
+    "release_year": 2005,
+    "_cover_lookup_complete": true
+  },
+  "No More Heroes": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f969a414d50f6cdf.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2d32d62103c52c8b13f7572bb9cc63b6.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/34067",
+    "cover_provider": "SteamGridDB"
+  },
+  "Oddworld Abe's Oddysee": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c95ff4cfb180dcba.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/80c1f602065ea6c3e6db56273de523cb.png",
+    "cover_source": "https://www.steamgriddb.com/game/1490",
+    "cover_provider": "SteamGridDB"
+  },
+  "Odin Sphere": {
+    "_lookup_complete": true,
+    "release_date": "2007-05-17",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2b41f4a9b71ffbb1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/69628bfed98efa0081fc4ffafdf0b92b.png",
+    "cover_source": "https://www.steamgriddb.com/game/34772",
+    "cover_provider": "SteamGridDB"
+  },
+  "One Piece : Grand Battle": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4dfc9e4b35010b22.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b05b02309da2f4c4aed342d1bad07a65.png",
+    "cover_source": "https://www.steamgriddb.com/game/5281952",
+    "cover_provider": "SteamGridDB"
+  },
+  "One Piece Grand Adventure": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/63eaeef658395106.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/01c7f8565b8971ab886737012cf1f1cf.png",
+    "cover_source": "https://www.steamgriddb.com/game/5289296",
+    "cover_provider": "SteamGridDB"
+  },
+  "osu!": {
+    "_lookup_complete": true,
+    "release_date": "2007-09-16",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/80ac16187f9aac26.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/79bd2e9fd8400fb610d59e4f0e1019f3.png",
+    "cover_source": "https://www.steamgriddb.com/game/4608",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pandora's Tower": {
+    "_lookup_complete": true,
+    "release_date": "2011-05-26",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/33e2968ed8234d6b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8c1bbcea199457b63dc39f7a024591f1.png",
+    "cover_source": "https://www.steamgriddb.com/game/5250212",
+    "cover_provider": "SteamGridDB"
+  },
+  "Paper Mario": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9018dbdc21b49f88.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b109d948a80f5daedcecf2d6e082cfd7.png",
+    "cover_source": "https://www.steamgriddb.com/game/36997",
+    "cover_provider": "SteamGridDB"
+  },
+  "Paper Mario and the thousand year door": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Phoenix Wright: Ace Attorney": {
+    "_lookup_complete": true,
+    "release_date": "2001-10-12",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d9c26ad67d18a2ab.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/05fae936b4a80c778b210cadb46bf07e.png",
+    "cover_source": "https://www.steamgriddb.com/game/38330",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pikmin": {
+    "_lookup_complete": true,
+    "release_date": "2001-10-26",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/513105d6af8175f2.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/fbb12b97a88a081cf8528b62df955103.png",
+    "cover_source": "https://www.steamgriddb.com/game/21114",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pikmin 2": {
+    "_lookup_complete": true,
+    "release_date": "2004-04-29",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fe571b51c6f419b3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/302810c531dc591423c0ab6271fdc1ec.png",
+    "cover_source": "https://www.steamgriddb.com/game/36006",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pikmin 3": {
+    "_lookup_complete": true,
+    "release_date": "2013-07-13",
+    "release_year": 2013,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/00023e43a8507c16.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d63a547cfc3e2f4857616de5b10d6973.png",
+    "cover_source": "https://www.steamgriddb.com/game/35063",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pilotwings Resort": {
+    "_lookup_complete": true,
+    "release_date": "2011-03-25",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a46f3ef92b3e6cae.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cf07fb01c625865824e487cc0d9bb9de.png",
+    "cover_source": "https://www.steamgriddb.com/game/5274055",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Battle revolution": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b858585530242683.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e484924ae85ed1a1da0684887b076877.png",
+    "cover_source": "https://www.steamgriddb.com/game/5209456",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Blue": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Channel.": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2f4c69b3d0d55244.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ed188b310bfe08aa3fb39d496693d271.png",
+    "cover_source": "https://www.steamgriddb.com/game/5253044",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Colosseum": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ff3c8419aac8c7bf.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/54822176dc700faa65aae620d28b419a.png",
+    "cover_source": "https://www.steamgriddb.com/game/37835",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Crystal": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Diamond": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Leaf Green": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Puzzle": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Silver": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokèmon Snap": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/94a1547f22ea5dc1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1661b79578c9a10b72cc4403977801bf.png",
+    "cover_source": "https://www.steamgriddb.com/game/37585",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Stadium": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bc92b226330b3cf3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d5d6f4f33df6216588dad86b825be352.png",
+    "cover_source": "https://www.steamgriddb.com/game/36269",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon XD : Gale of Darkness": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0a124b64c6f25427.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1f7e1150692e876c7418f2e7183b69b5.png",
+    "cover_source": "https://www.steamgriddb.com/game/35162",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokèmon Yellow": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokémon de Panepon": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pokémon Ruby": {
+    "_lookup_complete": true,
+    "release_date": "2002-11-21",
+    "release_year": 2002,
+    "_cover_lookup_complete": true
+  },
+  "Pokémon White": {
+    "_lookup_complete": true,
+    "release_date": "2010-09-18",
+    "release_year": 2010,
+    "_cover_lookup_complete": true
+  },
+  "Portal": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e99da4123c961c8d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/41a69c66f821f25c8184aea3bb35225d.png",
+    "cover_source": "https://www.steamgriddb.com/game/9022",
+    "cover_provider": "SteamGridDB"
+  },
+  "Professor Layton and the Curious Village": {
+    "_lookup_complete": true,
+    "release_date": "2007-02-15",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/56a9e48965a6e2c5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7402281d0ac9a8b55a599a5f69179d4a.png",
+    "cover_source": "https://www.steamgriddb.com/game/38827",
+    "cover_provider": "SteamGridDB"
+  },
+  "Professor Layton and the Diabolical Box": {
+    "_lookup_complete": true,
+    "release_date": "2007-11-29",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f38c56e17f9c043a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dae0a21fdd68fc65269689b5e70c0bde.png",
+    "cover_source": "https://www.steamgriddb.com/game/38328",
+    "cover_provider": "SteamGridDB"
+  },
+  "Professor Layton and the Last Specter": {
+    "_lookup_complete": true,
+    "release_date": "2009-11-26",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/106611fe3eec86ed.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/19e40cd42aa1262dbd1842ac690a60a7.png",
+    "cover_source": "https://www.steamgriddb.com/game/5245789",
+    "cover_provider": "SteamGridDB"
+  },
+  "Professor Layton and the Miracle Mask": {
+    "_lookup_complete": true,
+    "release_date": "2011-02-26",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/dbf356ba845904c5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/be774f2a5ef55482596487bf9bdfbd76.png",
+    "cover_source": "https://www.steamgriddb.com/game/5246695",
+    "cover_provider": "SteamGridDB"
+  },
+  "Professor Layton and the Unwound Future": {
+    "_lookup_complete": true,
+    "release_date": "2008-11-27",
+    "release_year": 2008,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4707d98d1fa79398.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/17a163f6ab3de102b49599f5577866fc.png",
+    "cover_source": "https://www.steamgriddb.com/game/38016",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pullblox": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Radiant Historia": {
+    "_lookup_complete": true,
+    "release_date": "2010-11-03",
+    "release_year": 2010,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9f4b89520796a075.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/572b32bde8dcd42e5964d23e7a69e138.png",
+    "cover_source": "https://www.steamgriddb.com/game/4613",
+    "cover_provider": "SteamGridDB"
+  },
+  "Ratchet and Clank": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Ratchet and Clank 3": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Rayman Origins": {
+    "_lookup_complete": true,
+    "release_date": "2012-01-26",
+    "release_year": 2012,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/772c2c791e144bab.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cb1a716a70ad58a2f02792dcc8db2039.png",
+    "cover_source": "https://www.steamgriddb.com/game/1915",
+    "cover_provider": "SteamGridDB"
+  },
+  "Resident Evil 4: Wii Edition": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cc705f2b938edeba.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/743445ebd997a2b5b2073b871cc395db.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5309362",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sega Mega Drive Collection": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/5411439c22765419.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/97391cbbcd814dc3402af0a9112be215.png",
+    "cover_source": "https://www.steamgriddb.com/game/5346682",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sega Soccer Slam": {
+    "_lookup_complete": true,
+    "release_date": "2002-03-18",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2027e54468b6cf99.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ed115b78b4dfe39eea3cc14083a8912a.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5264373",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shaman King - Power of Spirit": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Silent Hill 2": {
+    "_lookup_complete": true,
+    "release_date": "2001-09-25",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/485be3ec9c283102.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6bd57061dc4f754f0cbad5fb6efe3733.png",
+    "cover_source": "https://www.steamgriddb.com/game/36708",
+    "cover_provider": "SteamGridDB"
+  },
+  "Simpsons Hit & Run": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Sin and Punishment: Successor of the Skies": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "SNK vs Capcom SVC chaos": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ab8bb3ce9fce2f48.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c56f7daa3da6c7a912f58d554fd5b444.png",
+    "cover_source": "https://www.steamgriddb.com/game/5209424",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sonic Advance": {
+    "_lookup_complete": true,
+    "release_date": "2001-12-20",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e41e059d74379401.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ca1fe6a0844a89e00972540953eb5b6b.png",
+    "cover_source": "https://www.steamgriddb.com/game/1668",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sonic Adventure 2 : Battle": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7cd9a34df8e823de.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/840b2c22efca496f247caa4063cadd8c.png",
+    "cover_source": "https://www.steamgriddb.com/game/29912",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sonic Heroes": {
+    "_lookup_complete": true,
+    "release_date": "2003-12-30",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/556e7ef990e011da.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/769ce6d68c27f76ad77cbe1405ee181e.png",
+    "cover_source": "https://www.steamgriddb.com/game/38740",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sonic Mega Collection": {
+    "_lookup_complete": true,
+    "release_date": "2002-11-12",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f33940d1c8ebfe7a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1c7407461eeb2622022bb8df8b3b3c89.png",
+    "cover_source": "https://www.steamgriddb.com/game/34338",
+    "cover_provider": "SteamGridDB"
+  },
+  "Soul Calibur II": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Star Wars III": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Star Wars: Rogue Leader": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Starfox 64 3D": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Super Mario 3D Land": {
+    "_lookup_complete": true,
+    "release_date": "2011-11-03",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/19b56c90395f287d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/40578fbf4c594ee242e5cd224b077c10.png",
+    "cover_source": "https://www.steamgriddb.com/game/36776",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario 64": {
+    "_lookup_complete": true,
+    "release_date": "1996-06-23",
+    "release_year": 1996,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/269b2296054fdb61.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f293653ffa5c0e53453463a82401dbec.png",
+    "cover_source": "https://www.steamgriddb.com/game/37177",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario 64 DS": {
+    "_lookup_complete": true,
+    "release_date": "2004-11-21",
+    "release_year": 2004,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/37f033b05c68c86d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/16311c87e5635893abd76815d276cbdf.png",
+    "cover_source": "https://www.steamgriddb.com/game/35542",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Advance 2: Super Mario World": {
+    "_lookup_complete": true,
+    "release_date": "2002-02-09",
+    "release_year": 2002,
+    "_cover_lookup_complete": true
+  },
+  "Super Mario Advance 4: Super Mario Bros. 3": {
+    "_lookup_complete": true,
+    "release_date": "2003-07-11",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9db7e13a41bcef2c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5b2a344cf5ab58855e60a88368877580.png",
+    "cover_source": "https://www.steamgriddb.com/game/34495",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Advance: Super Mario Bros. 2": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Super Mario Bros.": {
+    "_lookup_complete": true,
+    "release_date": "1985-09-13",
+    "release_year": 1985,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/19055554a300f024.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/75f29e87a3923053bde594667a5e33d3.png",
+    "cover_source": "https://www.steamgriddb.com/game/37382",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Galaxy": {
+    "_lookup_complete": true,
+    "release_date": "2007-11-01",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8b9202f5255b2765.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/850660ba5cb014184e5cc0e6b3d4c6bb.png",
+    "cover_source": "https://www.steamgriddb.com/game/36389",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Galaxy 2": {
+    "_lookup_complete": true,
+    "release_date": "2010-05-23",
+    "release_year": 2010,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c33d57a961ef3635.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e407ebda50100920810c87e64a79abd8.png",
+    "cover_source": "https://www.steamgriddb.com/game/1690",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario RPG: Legend of the Seven Stars": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4185ccc964cad356.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/394ef49f1d019ccaf6caf070c403cb32.png",
+    "cover_source": "https://www.steamgriddb.com/game/37922",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Sunshine": {
+    "_lookup_complete": true,
+    "release_date": "2002-07-19",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b082979060495eb6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f5e97c0193978d636807084bf658fc1c.png",
+    "cover_source": "https://www.steamgriddb.com/game/34899",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Metroid": {
+    "_lookup_complete": true,
+    "release_date": "1994-03-19",
+    "release_year": 1994,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fcd405fbfe76e297.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/167248f62dbaf61aff4b7d1be9439282.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/38157",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Monkey Ball": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1f63cfb5a0e7b2c2.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ed10e468b306f16f3e3c43f643316cf7.png",
+    "cover_source": "https://www.steamgriddb.com/game/42",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Monkey Ball 2": {
+    "_lookup_complete": true,
+    "release_date": "2002-08-25",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/95dbe1048c01cb6d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6e698b391c2ab5286ab4baae045ef958.png",
+    "cover_source": "https://www.steamgriddb.com/game/34439",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Monkey Ball Banana Blitz": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c7611729c928217a.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e8ceb8b5b3cac8b80a1ba7ea516b35a5.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5254902",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Paper Mario": {
+    "_lookup_complete": true,
+    "release_date": "2007-04-09",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/18187bbf51ce6f55.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b8db81c7134ac8de138a6ae02c78cbfb.png",
+    "cover_source": "https://www.steamgriddb.com/game/38613",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Smash Bros.": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2f4f51cf6e88bee2.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/aedfc9ce6f9548cae0642eb628fa23c7.png",
+    "cover_source": "https://www.steamgriddb.com/game/33624",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Smash Bros. 4": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Super Smash Bros. Melee": {
+    "_lookup_complete": true,
+    "release_date": "2001-11-24",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e47df108f036f8ae.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6bc12f11f086c6c9dd8d09f936775fce.png",
+    "cover_source": "https://www.steamgriddb.com/game/37285",
+    "cover_provider": "SteamGridDB"
+  },
+  "Surgeon Simulator": {
+    "_lookup_complete": true,
+    "release_date": "2013-04-19",
+    "release_year": 2013,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3dd443c52deb9641.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f30d740c8f07ca75893e1cbb07694f3a.png",
+    "cover_source": "https://www.steamgriddb.com/game/2577",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tales of Symphonia: Dawn of the New World": {
+    "_lookup_complete": true,
+    "release_date": "2008-06-26",
+    "release_year": 2008,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/58a7144931026ed7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1abf2f9f87f538f62ad84ec75e675c29.png",
+    "cover_source": "https://www.steamgriddb.com/game/38042",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tales of the Abyss": {
+    "_lookup_complete": true,
+    "release_date": "2005-12-15",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9a3f7ce82f645137.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dc66c1b1d0f0985c5547c348a40db34e.png",
+    "cover_source": "https://www.steamgriddb.com/game/36950",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tatsunoko vs Capcom: Ultimate All-Stars": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/541e6846c56b8dbe.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cb1ea32089ee9a777af4d8225e35591d.png",
+    "cover_source": "https://www.steamgriddb.com/game/11899",
+    "cover_provider": "SteamGridDB"
+  },
+  "Team Fortress 2": {
+    "_lookup_complete": true,
+    "release_date": "2007-10-10",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a133fc4ce03556e3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f64230dace882ba8b2d14ebfd24dc0a3.png",
+    "cover_source": "https://www.steamgriddb.com/game/10602",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tekken 4": {
+    "_lookup_complete": true,
+    "release_date": "2002-03-28",
+    "release_year": 2002,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/dce7cce4d9cec373.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1e85d0d9a89f4bd0de7b22c2cf5ff906.png",
+    "cover_source": "https://www.steamgriddb.com/game/29830",
+    "cover_provider": "SteamGridDB"
+  },
+  "Toejam & Earl": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2cce39d3a01218fd.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7b1fe52274ec74b791a055f839c8ddd4.png",
+    "cover_source": "https://www.steamgriddb.com/game/34242",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tomba! 2: The Evil Swine Return": {
+    "_lookup_complete": true,
+    "release_date": "1999-10-28",
+    "release_year": 1999,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/40a46973fff404c7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5d13bb7b735d024d5046ae2b619ad787.png",
+    "cover_source": "https://www.steamgriddb.com/game/36291",
+    "cover_provider": "SteamGridDB"
+  },
+  "Trine 2": {
+    "_lookup_complete": true,
+    "release_date": "2011-12-07",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/254a66a6fb824914.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b6b265ec09d1d1b9ea935bd5d6b0f28a.png",
+    "cover_source": "https://www.steamgriddb.com/game/7043",
+    "cover_provider": "SteamGridDB"
+  },
+  "Viewtiful Joe": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2b6960974f719718.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f32261e18f97a3edbac48ff2a12dee7c.png",
+    "cover_source": "https://www.steamgriddb.com/game/33558",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wario Land": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Wario Land 3": {
+    "_lookup_complete": true,
+    "release_date": "2000-03-21",
+    "release_year": 2000,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9fd8bc01cee87d25.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/35d334ff120407df3baaa829c0c4adc2.png",
+    "cover_source": "https://www.steamgriddb.com/game/33960",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wario Land 4": {
+    "_lookup_complete": true,
+    "release_date": "2001-08-21",
+    "release_year": 2001,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e921481752560160.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/05d473743a62f7f3bfc3ecad84c1519c.png",
+    "cover_source": "https://www.steamgriddb.com/game/35607",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wario Land Shake It!": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cb5b8dcb0080eeb9.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2ade688b34d8b8adbb769b79e4fee500.png",
+    "cover_source": "https://www.steamgriddb.com/game/5246546",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wario Ware inc. : mega Party Games": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "WarioWare : Touched": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/043c8b58a82f3956.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/330093c4c80196eaada85031c9d7f6c6.png",
+    "cover_source": "https://www.steamgriddb.com/game/4611",
+    "cover_provider": "SteamGridDB"
+  },
+  "WarioWare Inc.": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Warioware Smooth Moves": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/44dde4d3d0acf302.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d8b50b94e7c98f4f5168a39ccddf95a0.png",
+    "cover_source": "https://www.steamgriddb.com/game/5209476",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wave Race Blue Storm": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6ac541537d454fdc.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6db493c69fb924a3cdd84d9114eacefc.png",
+    "cover_source": "https://www.steamgriddb.com/game/38790",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wii play": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f7a6eeb9becfd58f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6f097e848d3e349ddf8763d4aaa943df.png",
+    "cover_source": "https://www.steamgriddb.com/game/5247892",
+    "cover_provider": "SteamGridDB"
+  },
+  "Wii sport": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "The World Ends With You": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4a154cae0fe6ea82.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/861f6857e1175504238b83e35457c3d5.png",
+    "cover_source": "https://www.steamgriddb.com/game/4589",
+    "cover_provider": "SteamGridDB"
+  },
+  "Xenoblade Chronicles": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/35d6c7fedf53fd3c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2bf1128e96b524718d0afd1239610fb1.png",
+    "cover_source": "https://www.steamgriddb.com/game/38853",
+    "cover_provider": "SteamGridDB"
+  },
+  "Yoshi's Story": {
+    "_lookup_complete": true,
+    "release_date": "1997-12-21",
+    "release_year": 1997,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/545080d1fa9e8bfe.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/98332a5df4d09a1390746ee7dbdb7982.png",
+    "cover_source": "https://www.steamgriddb.com/game/38149",
+    "cover_provider": "SteamGridDB"
+  },
+  "Yoshi's Island": {
+    "_lookup_complete": true,
+    "release_date": "1995-08-05",
+    "release_year": 1995,
+    "_cover_lookup_complete": true
+  },
+  "Yu-Gi-Oh legendary cards": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Yu-Gi-OH! Nightmare Trobadour": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Yu-Gi-OH! World Championship 2007": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4d5cb1b8edbfc04f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ce9de59e51b481c8cf98252d4e8569ed.png",
+    "cover_source": "https://www.steamgriddb.com/game/5333133",
+    "cover_provider": "SteamGridDB"
+  },
+  "Zone of the Enders": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c9e25492e36964fa.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6bc44bf736056fecfd958fec6893cc83.png",
+    "cover_source": "https://www.steamgriddb.com/game/36312",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man Zero 2": {
+    "_lookup_complete": true,
+    "release_date": "2003-05-02",
+    "release_year": 2003,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/620e3d1e0d69c2db.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5c75bc339f546fcada58819fe14baa77.png",
+    "cover_source": "https://www.steamgriddb.com/game/34049",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mega Man ZX Advent": {
+    "_lookup_complete": true,
+    "release_date": "2007-10-23",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/348f0844c2c10a6a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8984ba585508c54ec1552b99c886d177.png",
+    "cover_source": "https://www.steamgriddb.com/game/29886",
+    "cover_provider": "SteamGridDB"
+  },
+  "Labyrinth of Refrain: Coven of Dusk": {
+    "_lookup_complete": true,
+    "release_date": "2016-06-23",
+    "release_year": 2016,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f97ea366f556babf.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/67794c458aa0326fc661631fc60ec45f.png",
+    "cover_source": "https://www.steamgriddb.com/game/15673",
+    "cover_provider": "SteamGridDB"
+  },
+  "Etrian Odyssey Untold: The Millenium Girl": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Etrian Odyssey Untold II: The Fafnir Knight": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Etrian Odyssey IV: Legends of the Titan": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6fb4bec97e84d4b4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b81c22d99c278608571325c836b699c6.png",
+    "cover_source": "https://www.steamgriddb.com/game/36861",
+    "cover_provider": "SteamGridDB"
+  },
+  "Etrian Odyssey V: Beyond the Myth": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8f23664e60b2734f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e0401e4daa310d4de26464f37c0a4e59.png",
+    "cover_source": "https://www.steamgriddb.com/game/5281496",
+    "cover_provider": "SteamGridDB"
+  },
+  "Etrian Odyssey Nexus": {
+    "_lookup_complete": true,
+    "release_date": "2018-08-02",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/63a32d474ad4a637.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d0f8c3ac510e6b5be1575d01e9d14def.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5275467",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shin Megami Tensei IV": {
+    "_lookup_complete": true,
+    "release_date": "2013-05-23",
+    "release_year": 2013,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/65ab9655946cad50.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/08bedd4580031e9633ef1ca96093868c.png",
+    "cover_source": "https://www.steamgriddb.com/game/38033",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shin Megami Tensei: Strange Journey Redux": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c16d4a2eeff4bb11.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/52bfa38b4f8a5010613ee88b7abbfe72.png",
+    "cover_source": "https://www.steamgriddb.com/game/5407182",
+    "cover_provider": "SteamGridDB"
+  },
+  "Persona 5": {
+    "_lookup_complete": true,
+    "release_date": "2016-09-15",
+    "release_year": 2016,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/65309845c19d6ed4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1266ec139fca80cab1939250958861b0.png",
+    "cover_source": "https://www.steamgriddb.com/game/38689",
+    "cover_provider": "SteamGridDB"
+  },
+  "Hollow Knight": {
+    "_lookup_complete": true,
+    "release_date": "2017-02-24",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/20549b216ca9cde8.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d18c832e8c956b4ef8b92862e6bf470d.png",
+    "cover_source": "https://www.steamgriddb.com/game/7545",
+    "cover_provider": "SteamGridDB"
+  },
+  "Celeste": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/239836e543771f74.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/074aed57c243ae7020971ca7c9fe0f29.png",
+    "cover_source": "https://www.steamgriddb.com/game/13136",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem: Three Houses": {
+    "_lookup_complete": true,
+    "release_date": "2019-07-26",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fea327e504cc5ab4.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/849460026d42c840faab34d4d3b9fc33.png",
+    "cover_source": "https://www.steamgriddb.com/game/5246430",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda: Breath of the Wild": {
+    "_lookup_complete": true,
+    "release_date": "2017-03-03",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ba3a05e2f2b1b9c5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
+    "cover_source": "https://www.steamgriddb.com/game/35744",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Odyssey": {
+    "_lookup_complete": true,
+    "release_date": "2017-10-27",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e2549e02cf04cbc0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/505870c8848f2d550944bf64008c9472.png",
+    "cover_source": "https://www.steamgriddb.com/game/5245268",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dark Souls": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ac314c833fae1eec.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6a5eb28f1cf562a887a2cf30426d461f.png",
+    "cover_source": "https://www.steamgriddb.com/game/36657",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter Generations": {
+    "_lookup_complete": true,
+    "release_date": "2015-11-28",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9482f76b6b00938f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e017f635a30300195c3d3ae096961d03.png",
+    "cover_source": "https://www.steamgriddb.com/game/5252842",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter Generations Ultimate": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b981610ab367dcc0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7bf071f0838651b1a74f71df5003b3ca.png",
+    "cover_source": "https://www.steamgriddb.com/game/5264579",
+    "cover_provider": "SteamGridDB"
+  },
+  "Octopath Traveler": {
+    "_lookup_complete": true,
+    "release_date": "2018-07-13",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/753d84b1c9481282.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e522d9f3e8c056b74f05e8f9fd249fc5.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/4883735",
+    "cover_provider": "SteamGridDB"
+  },
+  "Gato Roboto": {
+    "_lookup_complete": true,
+    "release_date": "2019-05-30",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ed22fc03c6d50b9c.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dbc1166fb84c2727dc4ffdf6ef112ff5.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/820520",
+    "cover_provider": "SteamGridDB"
+  },
+  "Slay the Spire": {
+    "_lookup_complete": true,
+    "release_date": "2019",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ff32c03209a1420a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9ad067558ea2bd2a1239bfa2da998146.png",
+    "cover_source": "https://www.steamgriddb.com/game/18676",
+    "cover_provider": "SteamGridDB"
+  },
+  "Cadence of Hyrule": {
+    "_lookup_complete": true,
+    "release_date": "2019-06-13",
+    "release_year": 2019,
+    "_cover_lookup_complete": true
+  },
+  "Katana Zero": {
+    "_lookup_complete": true,
+    "release_date": "2019-04-18",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/58403179250c5f09.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/591a7d0dd57009b7cbbeb473b12fa992.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/11465",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mario Tennis Aces": {
+    "_lookup_complete": true,
+    "release_date": "2018-06-22",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/965ba7d92eeee22b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0050ac0b6397d3abebbf0eb610e1adbe.png",
+    "cover_source": "https://www.steamgriddb.com/game/5254520",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shovel Knight: Shovel of Hope": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d25c73dd9a6a3ec8.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0bee998d89d8be9b3b79e0b474c03246.png",
+    "cover_source": "https://www.steamgriddb.com/game/5252520",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shovel Knight: Plague of Shadows": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d38e9a0cddc94e2d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/af553d66a22edff8b03568987ccaf7e4.png",
+    "cover_source": "https://www.steamgriddb.com/game/5254555",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shovel Knight: Specter of Torment": {
+    "_lookup_complete": true,
+    "release_date": "2017-03-03",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6e65e08a87fbbf0b.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2f1ebdfe00886a31ae2103c214202d60.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/16663",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shovel Knight: King of Cards": {
+    "_lookup_complete": true,
+    "release_date": "2019-12-10",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/eb66da5e4fd2c95f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a26882b357d0bd5260ffdb7bbb510a39.png",
+    "cover_source": "https://www.steamgriddb.com/game/5252418",
+    "cover_provider": "SteamGridDB"
+  },
+  "AI: The Somnium Files": {
+    "_lookup_complete": true,
+    "release_date": "2019-09-17",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9ed78ca63a29185a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/72ff2e5345f0d5d96c24c3c314b1bc38.png",
+    "cover_source": "https://www.steamgriddb.com/game/1812544",
+    "cover_provider": "SteamGridDB"
+  },
+  "Zero Escape: Virtue's Last Reward": {
+    "_lookup_complete": true,
+    "release_date": "2012-02-16",
+    "release_year": 2012,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e87ff4786953e4cb.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f8e0f586867e02f5608fd2d173342da0.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5276798",
+    "cover_provider": "SteamGridDB"
+  },
+  "Zero Escape: Zero Time Dilemma": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/99fb42f9383ce9d6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ea450bcb795b161036b3338038bd362a.png",
+    "cover_source": "https://www.steamgriddb.com/game/4975",
+    "cover_provider": "SteamGridDB"
+  },
+  "Puyo Puyo Tetris": {
+    "_lookup_complete": true,
+    "release_date": "2014-02-06",
+    "release_year": 2014,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/932763e04e424321.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8329d1d1580949f49e1bba0a35286f5f.png",
+    "cover_source": "https://www.steamgriddb.com/game/14827",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sekiro: Shadows Die Twice": {
+    "_lookup_complete": true,
+    "release_date": "2019-03-22",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/18cded3f18957b65.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/97771715c7dd7daf009feeb60c49915a.png",
+    "cover_source": "https://www.steamgriddb.com/game/26258",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokémon Mystery Dungeon Rescue Team DX": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3d03c024bad45f1a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b43e49b1fc20ff9f2658bfcc9bcd8586.png",
+    "cover_source": "https://www.steamgriddb.com/game/5254467",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dragon Quest VII: Fragments of the Forgotten Past": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3c002722f7ec70b1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/21013a82106dc39c8eb89bb9d42073d5.png",
+    "cover_source": "https://www.steamgriddb.com/game/34367",
+    "cover_provider": "SteamGridDB"
+  },
+  "One Step from Eden": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c2630307f0afb67e.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e8c3d9c87fd032ae7d6e67d04f85c88c.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/32169",
+    "cover_provider": "SteamGridDB"
+  },
+  "Bloodstained: Ritual of the Night": {
+    "_lookup_complete": true,
+    "release_date": "2019",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f9fc4d47a6c48e85.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9012dbd23c4d2e33be5eccb0e5f72517.png",
+    "cover_source": "https://www.steamgriddb.com/game/20797",
+    "cover_provider": "SteamGridDB"
+  },
+  "Bloodstained: Curse of the Moon": {
+    "_lookup_complete": true,
+    "release_date": "2018",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/27c1d6f5429242b1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3ca5c9417edca73a996f346dd4a69625.png",
+    "cover_source": "https://www.steamgriddb.com/game/27179",
+    "cover_provider": "SteamGridDB"
+  },
+  "Momodora: Reverie Under the Moonlight": {
+    "_lookup_complete": true,
+    "release_date": "2016-03-04",
+    "release_year": 2016,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/79c1df1064cab91e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bf616ef248ff77290ccff43ce719b79a.png",
+    "cover_source": "https://www.steamgriddb.com/game/10109",
+    "cover_provider": "SteamGridDB"
+  },
+  "Axiom Verge": {
+    "_lookup_complete": true,
+    "release_date": "2015",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/57ddd8df1b12ac5a.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a422a18c93db2b5d4277c3ec048cc786.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5816",
+    "cover_provider": "SteamGridDB"
+  },
+  "Timespinner": {
+    "_lookup_complete": true,
+    "release_date": "2018-09-25",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/54354afa18f48c75.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f9358d6ae3e191c88d6610acb757d152.png",
+    "cover_source": "https://www.steamgriddb.com/game/7585",
+    "cover_provider": "SteamGridDB"
+  },
+  "NieR: Automata": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/5f4c794988fdd097.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6dc08e2dd57f32063fd0834694003042.png",
+    "cover_source": "https://www.steamgriddb.com/game/13971",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tokyo Mirage Session: #FE": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Xenoblade Chronicles Definitive Edition": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f16de399bbbab41b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9374ef3d53a00c33de62be93467ec04d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5275887",
+    "cover_provider": "SteamGridDB"
+  },
+  "Bloodstained: Curse of the Moon 2": {
+    "_lookup_complete": true,
+    "release_date": "2020-07-10",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/80adf5d5a1306e20.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f9f7d70041f4a5d4bf9cfb5484f3cb93.png",
+    "cover_source": "https://www.steamgriddb.com/game/5262944",
+    "cover_provider": "SteamGridDB"
+  },
+  "Remnant: From the Ashes": {
+    "_lookup_complete": true,
+    "release_date": "2019-08-20",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0149d1541c51ec14.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/11b465ec6e2e00fbe0397fc8f78230d0.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/4873696",
+    "cover_provider": "SteamGridDB"
+  },
+  "Hades": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/734343e50dd5926c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ce8a253393a1bbbb3d72cd2093b81ede.png",
+    "cover_source": "https://www.steamgriddb.com/game/4997889",
+    "cover_provider": "SteamGridDB"
+  },
+  "Final Fantasy Tactics: The War of the Lions": {
+    "_lookup_complete": true,
+    "release_date": "2007-05-10",
+    "release_year": 2007,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d4ff0c8ac4cc1933.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/670a64b4d67ab6b68016e09e7428748d.png",
+    "cover_source": "https://www.steamgriddb.com/game/37354",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter World": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8d5b651c7c458677.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4b3dd8900b9635955aeefd0d8e5e3da5.png",
+    "cover_source": "https://www.steamgriddb.com/game/16347",
+    "cover_provider": "SteamGridDB"
+  },
+  "Risk of Rain 2": {
+    "_lookup_complete": true,
+    "release_date": "2019-03-27",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0f41a1046f8aa80c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8992a6b9a77eb452fb54520b47a3d02e.png",
+    "cover_source": "https://www.steamgriddb.com/game/18260",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter Rise": {
+    "_lookup_complete": true,
+    "release_date": "2021-03-26",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/56c203de3035e97d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/8bf8fcf5c5ca2ee3d0e9cffc84b9ef1f.png",
+    "cover_source": "https://www.steamgriddb.com/game/5267265",
+    "cover_provider": "SteamGridDB"
+  },
+  "Another Metroid 2 Remake": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Ender Lilies: Quietus of the Knight": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Helltaker": {
+    "_lookup_complete": true,
+    "release_date": "2020-05-11",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1e9b86d12b06238c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/10b871d79644e50ba157bdfcf18a86b9.png",
+    "cover_source": "https://www.steamgriddb.com/game/5259324",
+    "cover_provider": "SteamGridDB"
+  },
+  "Picross e7": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/5b47d0f62bd5d149.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1c00ef7e82369f73d1918fca9e15e92e.png",
+    "cover_source": "https://www.steamgriddb.com/game/5285324",
+    "cover_provider": "SteamGridDB"
+  },
+  "Factorio": {
+    "_lookup_complete": true,
+    "release_date": "2016-02-25",
+    "release_year": 2016,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/08e5cd8c82b499d7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/30bd9960294e0ed86593ba7044991435.png",
+    "cover_source": "https://www.steamgriddb.com/game/10052",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Great Ace Attorney Chronicles": {
+    "_lookup_complete": true,
+    "release_date": "2021-07-27",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c7ccbb552f1094e5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1a4e645a6cc88e40785a4c9aee86f6db.png",
+    "cover_source": "https://www.steamgriddb.com/game/5284174",
+    "cover_provider": "SteamGridDB"
+  },
+  "Axiom Verge 2": {
+    "_lookup_complete": true,
+    "release_date": "2021-08-11",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b0073316e5530afd.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bf9629a1cb015d08e86a4119b77a823f.png",
+    "cover_source": "https://www.steamgriddb.com/game/5292638",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metroid Dread": {
+    "_lookup_complete": true,
+    "release_date": "2021-10-08",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6ec8983961fa7032.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/63c07e376dcf5799fc02381033f7c121.png",
+    "cover_source": "https://www.steamgriddb.com/game/5257930",
+    "cover_provider": "SteamGridDB"
+  },
+  "WarioWare: Get it Together!": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/eca6c53350f2464a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/55d6aa84fc8dd0cf0e908c38f92a9635.png",
+    "cover_source": "https://www.steamgriddb.com/game/5287813",
+    "cover_provider": "SteamGridDB"
+  },
+  "Rabi Ribi": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/87bedfacb1417f90.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a9f593b86d361e4472ac4d315cac2d79.png",
+    "cover_source": "https://www.steamgriddb.com/game/9063",
+    "cover_provider": "SteamGridDB"
+  },
+  "Castlevania Aria of Sorrow": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f1e246722f34a124.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a9fcbba7da26095ce5010a39b8a36509.png",
+    "cover_source": "https://www.steamgriddb.com/game/37276",
+    "cover_provider": "SteamGridDB"
+  },
+  "Castlevania: Dawn of Sorrow": {
+    "_lookup_complete": true,
+    "release_date": "2005-08-25",
+    "release_year": 2005,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e672c603bcea5361.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cb59700a2cdb743da39e4f59b2c74d23.png",
+    "cover_source": "https://www.steamgriddb.com/game/36286",
+    "cover_provider": "SteamGridDB"
+  },
+  "while True: learn()": {
+    "_lookup_complete": true,
+    "release_date": "2019-01-17",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/110e6c32e8bf13d7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a70804e0ba5009aaf7c191b7ff3cc93a.png",
+    "cover_source": "https://www.steamgriddb.com/game/17790",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dead Space": {
+    "_lookup_complete": true,
+    "release_date": "2008-10-13",
+    "release_year": 2008,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1b57caa7e5447159.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/26203c6ab63ff66fef12bbc3b8dad1c0.png",
+    "cover_source": "https://www.steamgriddb.com/game/1559",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shin Megami Tensei V": {
+    "_lookup_complete": true,
+    "release_date": "2021-11-11",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b6137e8b2a30798d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e31106d0d76be7443d4a5cedbb5ce7ec.png",
+    "cover_source": "https://www.steamgriddb.com/game/5287825",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dead Space 2": {
+    "_lookup_complete": true,
+    "release_date": "2011-01-25",
+    "release_year": 2011,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/da587a8abcb9319b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f5d589ab486178e83c95283826899b5f.png",
+    "cover_source": "https://www.steamgriddb.com/game/12088",
+    "cover_provider": "SteamGridDB"
+  },
+  "Castlevania: Portrait of Ruin": {
+    "_lookup_complete": true,
+    "release_date": "2006-11-16",
+    "release_year": 2006,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/56665769dbf15af2.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7ee9f617c844f4b924a1e94ae7497f6d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5248742",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dead Space 3": {
+    "_lookup_complete": true,
+    "release_date": "2013-02-05",
+    "release_year": 2013,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/25188f38c7607196.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/932d27a31541a871b167f05e3f411366.png",
+    "cover_source": "https://www.steamgriddb.com/game/38046",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tower of Heaven": {
+    "_lookup_complete": true,
+    "release_date": "2009",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6c537d955a64f51f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d62925469eb0de7e25e9e503174f0ded.png",
+    "cover_source": "https://www.steamgriddb.com/game/5261817",
+    "cover_provider": "SteamGridDB"
+  },
+  "Outriders": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f59cf18557c476e0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/02abbc47f0e285f2c41f8fdba170a8ae.png",
+    "cover_source": "https://www.steamgriddb.com/game/5257183",
+    "cover_provider": "SteamGridDB"
+  },
+  "Brawlhalla": {
+    "_lookup_complete": true,
+    "release_date": "2015",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a89d16741ab2cdb3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/820b5138a91b4a3ef9a7024cbbcc9af9.png",
+    "cover_source": "https://www.steamgriddb.com/game/4248",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokemon Legends Arceus": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/01e3e5cd42faf428.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ce098cf158927e2cea10919e1e2b36a3.png",
+    "cover_source": "https://www.steamgriddb.com/game/5286404",
+    "cover_provider": "SteamGridDB"
+  },
+  "Spelunky 2": {
+    "_lookup_complete": true,
+    "release_date": "2020-09-15",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/60234ac429e1c855.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/37ab3008887838d2f78a9c120b13795d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5265314",
+    "cover_provider": "SteamGridDB"
+  },
+  "COGEN: Sword of Rewind": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Prey": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/04a8e09f06cebcbb.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d166d6ef19f213edeece16fd1f0db8be.png",
+    "cover_source": "https://www.steamgriddb.com/game/8887",
+    "cover_provider": "SteamGridDB"
+  },
+  "Inscryption": {
+    "_lookup_complete": true,
+    "release_date": "2021-10-19",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3cb5613a6d446c24.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0e8db479ccde6f74f7e23d2bd71c47bb.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5265122",
+    "cover_provider": "SteamGridDB"
+  },
+  "Triangle Strategy": {
+    "_lookup_complete": true,
+    "release_date": "2022-03-04",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d53ba968c5834a89.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2830a65af0d754f4081be07c6159c197.png",
+    "cover_source": "https://www.steamgriddb.com/game/5321277",
+    "cover_provider": "SteamGridDB"
+  },
+  "Minoria": {
+    "_lookup_complete": true,
+    "release_date": "2019-08-27",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a971f5aa5caa6274.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f39cfb5ae80eda8758f926a650a7c134.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/31424",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Sanctuary": {
+    "_lookup_complete": true,
+    "release_date": "2019-08-28",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2af82d3017645f6d.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4b3679dc5b8acc700c090ab2d05d767a.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/26257",
+    "cover_provider": "SteamGridDB"
+  },
+  "Vampire Survivors": {
+    "_lookup_complete": true,
+    "release_date": "2021-12-17",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/99f47c25ab6825e5.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b6c580b0ed08cf19c925be5a68475cd4.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5306805",
+    "cover_provider": "SteamGridDB"
+  },
+  "20 Minutes Till Dawn": {
+    "_lookup_complete": true,
+    "release_date": "2022-06-07",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0b1f0e1d2a9387fc.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c3c25f1f935df6a160e928e45c8afaa1.png",
+    "cover_source": "https://www.steamgriddb.com/game/5325584",
+    "cover_provider": "SteamGridDB"
+  },
+  "Infernax": {
+    "_lookup_complete": true,
+    "release_date": "2022-02-14",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/52d2ce643163771f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4a0a78262df507a4f043a9cd4bef3dcd.png",
+    "cover_source": "https://www.steamgriddb.com/game/5247647",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokemon Card GB2 GR dan sanjou": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Sonic Mania": {
+    "_lookup_complete": true,
+    "release_date": "2017-08-15",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ed60b2689c406a6f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/850dc71b17efabd2c38aa16820445433.png",
+    "cover_source": "https://www.steamgriddb.com/game/16424",
+    "cover_provider": "SteamGridDB"
+  },
+  "Puyo Puyo Tetris 2": {
+    "_lookup_complete": true,
+    "release_date": "2020-12-08",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1a2f414c766c11d7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/05293bdc7024adad49583c479b1ad96b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5265984",
+    "cover_provider": "SteamGridDB"
+  },
+  "Superliminal": {
+    "_lookup_complete": true,
+    "release_date": "2019-11-12",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/14a48967b8cab11c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/4737bbc3e394b340f726ec032e405851.png",
+    "cover_source": "https://www.steamgriddb.com/game/2978154",
+    "cover_provider": "SteamGridDB"
+  },
+  "Taiji": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1eafabaa76f00675.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1158f097b03694df22eb912fae94e0de.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5252866",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dragon Marked for Death": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/47ca14ab6e6efa43.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/16400f4758c883103089c5537ab3cd62.png",
+    "cover_source": "https://www.steamgriddb.com/game/5258367",
+    "cover_provider": "SteamGridDB"
+  },
+  "A Hat in Time": {
+    "_lookup_complete": true,
+    "release_date": "2014",
+    "release_year": 2014,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bf78fd57fd46dd5c.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f590455e91f4befe8af1307e670ec528.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/3120",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dying Light": {
+    "_lookup_complete": true,
+    "release_date": "2015-01-27",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/94a4ce63826b9369.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/795ced384fdcad15310b46841a6f145c.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/2716",
+    "cover_provider": "SteamGridDB"
+  },
+  "Breath of Fire V Dragon Quarter": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Quern - Undying Thoughts": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/30d78320df529c9d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3ebf8cd33a4a39844264dba4ca4289c1.png",
+    "cover_source": "https://www.steamgriddb.com/game/13508",
+    "cover_provider": "SteamGridDB"
+  },
+  "Obduction": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/579900c9fa1a3714.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/515166092c0f96f24bb443e9d8fde5c4.png",
+    "cover_source": "https://www.steamgriddb.com/game/4867",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Eyes of Ara": {
+    "_lookup_complete": true,
+    "release_date": "2016",
+    "release_year": 2016,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4211d65b0dc4768c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/499a90bc02790bfda9ffd80f1f6c7f39.png",
+    "cover_source": "https://www.steamgriddb.com/game/11197",
+    "cover_provider": "SteamGridDB"
+  },
+  "Fire Emblem Engage": {
+    "_lookup_complete": true,
+    "release_date": "2023-01-20",
+    "release_year": 2023,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3cf780b646ff3c85.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f6fdd75dccd15c9e7f13ddd9076d7809.png",
+    "cover_source": "https://www.steamgriddb.com/game/5355791",
+    "cover_provider": "SteamGridDB"
+  },
+  "Rounds": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f48f6544bbbaba1c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ed561a1e0cca7ff5284f3cf76caa48fe.png",
+    "cover_source": "https://www.steamgriddb.com/game/5281211",
+    "cover_provider": "SteamGridDB"
+  },
+  "Lone Fungus": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9324a44fb62f76ea.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2e9d875ca1085c2ed4e13a624f28ecbf.png",
+    "cover_source": "https://www.steamgriddb.com/game/5288950",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tekken 7": {
+    "_lookup_complete": true,
+    "release_date": "2015-03-18",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7a8764208fc63f46.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/698c42c967a68312997479c5bde6cb28.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/8555",
+    "cover_provider": "SteamGridDB"
+  },
+  "Granblue Fantasy Versus": {
+    "_lookup_complete": true,
+    "release_date": "2020-02-06",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bed4da72b71139ee.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/88bf552f81299682d5a94bdce17a95da.png",
+    "cover_source": "https://www.steamgriddb.com/game/5257581",
+    "cover_provider": "SteamGridDB"
+  },
+  "Haiku the Robot": {
+    "_lookup_complete": true,
+    "release_date": "2022-04-28",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6ea6559669e3ced7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/511781bbbf610d7fd47309cbd3cee18f.png",
+    "cover_source": "https://www.steamgriddb.com/game/5257478",
+    "cover_provider": "SteamGridDB"
+  },
+  "Resident Evil 5": {
+    "_lookup_complete": true,
+    "release_date": "2009-03-05",
+    "release_year": 2009,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7f998fa435555af3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f44910410bd7cd5713c7dc2dc493ee64.png",
+    "cover_source": "https://www.steamgriddb.com/game/2177",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Legend of Zelda Tears of the Kingdom": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/5f74996fbeb5472a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ae758fbcbd5bd841516c53b3c08ebc6f.png",
+    "cover_source": "https://www.steamgriddb.com/game/5303117",
+    "cover_provider": "SteamGridDB"
+  },
+  "Deep Rock Galactic": {
+    "_lookup_complete": true,
+    "release_date": "2020-05-13",
+    "release_year": 2020,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7824a02a6d1d7e2f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9c8d8b6698dd0dc195d35179f7e27543.png",
+    "cover_source": "https://www.steamgriddb.com/game/14939",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tunic": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/ba04d1de6e309e23.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2daf9584863b39e00f7362dc69aeb4e1.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/15151",
+    "cover_provider": "SteamGridDB"
+  },
+  "Remnant II": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/fb1a9fae31215cce.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d1f0d59aa5eb5d4001c3dee59fc8820e.png",
+    "cover_source": "https://www.steamgriddb.com/game/5370123",
+    "cover_provider": "SteamGridDB"
+  },
+  "20xx": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c473f7abe34e8f51.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0002ac0d783338cfeab0b2bdbd872cda.png",
+    "cover_source": "https://www.steamgriddb.com/game/5424",
+    "cover_provider": "SteamGridDB"
+  },
+  "Luck be a Landlord": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/024b4fccea01d227.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/688a5fcf23216758a1e2c28347eb8261.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5268301",
+    "cover_provider": "SteamGridDB"
+  },
+  "Blasphemous": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a196636a7aaed377.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/efb0f96fc2ee386ece83fdacdf9e9c81.png",
+    "cover_source": "https://www.steamgriddb.com/game/4878706",
+    "cover_provider": "SteamGridDB"
+  },
+  "Holocure": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Outer Wilds": {
+    "_lookup_complete": true,
+    "release_date": "2019-05-28",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/481e25aa359235af.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/eb14cccbec050d8e6b6d21116d5a3dd9.png",
+    "cover_source": "https://www.steamgriddb.com/game/23535",
+    "cover_provider": "SteamGridDB"
+  },
+  "Touhou Luna Nights": {
+    "_lookup_complete": true,
+    "release_date": "2019-02-25",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bbf9ff0025b38ec8.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/321e1e1c9da6ddb062dbf408b0e247d1.png",
+    "cover_source": "https://www.steamgriddb.com/game/27731",
+    "cover_provider": "SteamGridDB"
+  },
+  "Your only move is hustle": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6dda9af952d2c7b6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/45383f98bd381982bfdbe4d01bf51a36.png",
+    "cover_source": "https://www.steamgriddb.com/game/5365955",
+    "cover_provider": "SteamGridDB"
+  },
+  "Return of the Obra Dinn": {
+    "_lookup_complete": true,
+    "release_date": "2018-10-18",
+    "release_year": 2018,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2b2a1cb4f6782ef5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dd0dd5f6bdbbe6eeb82d5c3f46c61296.png",
+    "cover_source": "https://www.steamgriddb.com/game/18908",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Mario Wonder": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Disgaea 7": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/da82071fecef0b38.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3ca1c29cf2e6802c1b830e657d14f52b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5348606",
+    "cover_provider": "SteamGridDB"
+  },
+  "Reverse:1999": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c52dd5fa2b39d5e5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/78cee54670cfcb7b3f220afab75c308a.png",
+    "cover_source": "https://www.steamgriddb.com/game/5434621",
+    "cover_provider": "SteamGridDB"
+  },
+  "Outcore": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e7efcb692c7d0b9a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/83a66662ef8274692e096d2b636903eb.png",
+    "cover_source": "https://www.steamgriddb.com/game/5261027",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Forgotten City": {
+    "_lookup_complete": true,
+    "release_date": "2021-07-28",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e2335934ad19827e.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3b2bfbb9096fe09ac2c3c9410deb696c.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/28748",
+    "cover_provider": "SteamGridDB"
+  },
+  "Risk of Rain Returns": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/517f0c7a44d05211.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/552fe7525fb08b726f94cbac9e5cb545.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5372636",
+    "cover_provider": "SteamGridDB"
+  },
+  "TEVI": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/84e724ea3723893d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/eee2c576a5ab73f945b6edb32219b192.png",
+    "cover_source": "https://www.steamgriddb.com/game/5382611",
+    "cover_provider": "SteamGridDB"
+  },
+  "Void Stranger": {
+    "_lookup_complete": true,
+    "release_date": "2023-09-01",
+    "release_year": 2023,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/19c00c2790a3a9db.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/eec5aae53e15e9555d40656d9b026bbe.png",
+    "cover_source": "https://www.steamgriddb.com/game/5392629",
+    "cover_provider": "SteamGridDB"
+  },
+  "Celeste 64: Fragments of the Mountain": {
+    "_lookup_complete": true,
+    "release_date": "2024-01-29",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/58a6ada9045eb3de.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7e9566feb214f97558cf849d6f4f11df.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5442661",
+    "cover_provider": "SteamGridDB"
+  },
+  "Secrets of Grindea": {
+    "_lookup_complete": true,
+    "release_date": "2015-07-13",
+    "release_year": 2015,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a7ae0b204bd71c06.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/49e6606f28c386825995119e1514b926.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/3616",
+    "cover_provider": "SteamGridDB"
+  },
+  "Helldivers 2": {
+    "_lookup_complete": true,
+    "release_date": "2024-02-08",
+    "release_year": 2024,
+    "_cover_lookup_complete": true
+  },
+  "Pseudoregalia": {
+    "_lookup_complete": true,
+    "release_date": "2023-07-28",
+    "release_year": 2023,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1e1c56330239290d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/83272a25b62e32adf85c0c677dd2171f.png",
+    "cover_source": "https://www.steamgriddb.com/game/5392329",
+    "cover_provider": "SteamGridDB"
+  },
+  "Loop Hero": {
+    "_lookup_complete": true,
+    "release_date": "2021-03-04",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/dce10ff0df4a5202.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/325449e3c0ff25c709d22e7d656a2673.png",
+    "cover_source": "https://www.steamgriddb.com/game/5273092",
+    "cover_provider": "SteamGridDB"
+  },
+  "King of the Bridge": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d8496802dac76421.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/066098b4e15d5693c4ddef4f54383278.png",
+    "cover_source": "https://www.steamgriddb.com/game/5417972",
+    "cover_provider": "SteamGridDB"
+  },
+  "Rabbit and Steel": {
+    "_lookup_complete": true,
+    "release_date": "2024-05-09",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4ddebca5a311bb2e.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/70c0b118d2bc76e4c797a607b2d53a01.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5369180",
+    "cover_provider": "SteamGridDB"
+  },
+  "Animal Well": {
+    "_lookup_complete": true,
+    "release_date": "2024-05-09",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f395be4d14977ef3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/85f9b86bd49ce83246a7cac214356433.png",
+    "cover_source": "https://www.steamgriddb.com/game/5319754",
+    "cover_provider": "SteamGridDB"
+  },
+  "Children of Morta": {
+    "_lookup_complete": true,
+    "release_date": "2019-09-03",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/106a592339f5d0ad.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/0e541ef1a7e2524dbde7e3d7b5f64923.png",
+    "cover_source": "https://www.steamgriddb.com/game/5736",
+    "cover_provider": "SteamGridDB"
+  },
+  "Rivals of Aether": {
+    "_lookup_complete": true,
+    "release_date": "2017-03-28",
+    "release_year": 2017,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/9f59ec2550004d6a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/294124df69a468df3ca855683889895d.png",
+    "cover_source": "https://www.steamgriddb.com/game/8279",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tekken 8": {
+    "_lookup_complete": true,
+    "release_date": "2024-01-26",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/67204cbdda9b6cc6.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a9283100ad06971a29f5382f6ab25ea4.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5360955",
+    "cover_provider": "SteamGridDB"
+  },
+  "Slider": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/6a62eb72408745b3.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/779933db4487b3a4948cc5f80548a97a.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/29195",
+    "cover_provider": "SteamGridDB"
+  },
+  "Witch Spring R": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "(the) Gnorp Apologue": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/79db669de54fc1d5.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/dc8993369601d577d1fcc22a5453da4a.png",
+    "cover_source": "https://www.steamgriddb.com/game/5434823",
+    "cover_provider": "SteamGridDB"
+  },
+  "To The Core": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4a63f75d7675b57d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bfca6b31186077e4f7cec961318b23f4.png",
+    "cover_source": "https://www.steamgriddb.com/game/28737",
+    "cover_provider": "SteamGridDB"
+  },
+  "Nodebuster": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/29b62ae119fb2162.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/408563c171f55dda7853e7bc1a31fb8b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5459595",
+    "cover_provider": "SteamGridDB"
+  },
+  "Astral Ascent": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/8f108431efb670ed.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cb5d79b8e047b8971a969c2f6abe4db2.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5260174",
+    "cover_provider": "SteamGridDB"
+  },
+  "Ravenswatch": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f3cad85341f57bea.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/520d68969085b4b038805bee2b5f89ac.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5339607",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dino Crisis Rebirth": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Lorelei and the Laser Eyes": {
+    "_lookup_complete": true,
+    "release_date": "2024-05-16",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d138a08c377e387a.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/c6de67b8c5ef5cd0b3e4b087a18b0538.png",
+    "cover_source": "https://www.steamgriddb.com/game/5338216",
+    "cover_provider": "SteamGridDB"
+  },
+  "Journey to Incrementalia": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Magic Archery": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/634e94c36d249274.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9f397ed87d03ef180ab3fb0ccf83448a.png",
+    "cover_source": "https://www.steamgriddb.com/game/5464777",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tower Wizard": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/20e9df9df2babb0d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/12078848e5c2abaa487aee7f3d36521d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5472985",
+    "cover_provider": "SteamGridDB"
+  },
+  "Balatro": {
+    "_lookup_complete": true,
+    "release_date": "2024-02-20",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d3156beeb766df9f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d70b4d9fdf0af0a00814b91fa82b3d4c.png",
+    "cover_source": "https://www.steamgriddb.com/game/5403326",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shin Megami Tensei V: Vengeance": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0542ba2accac838e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/9d5dbab7b90a4e596d91e7f2db678d84.png",
+    "cover_source": "https://www.steamgriddb.com/game/5444817",
+    "cover_provider": "SteamGridDB"
+  },
+  "Curse Crackers: For Whom the Belle Toils": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cad746915b1765b9.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6e4c48bd08d6cb75c2d53782a7dda1b0.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5293658",
+    "cover_provider": "SteamGridDB"
+  },
+  "Monster Hunter Wilds": {
+    "_lookup_complete": true,
+    "release_date": "2025-02-28",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1f42ed892da9098d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/022f1a0bb8523a8e0d9d8afa86dffc2d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5438489",
+    "cover_provider": "SteamGridDB"
+  },
+  "Gal Guardians - Servants of the Dark": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1784b79fcfe97971.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/26f509365fefd7662878cb030ae0865b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5466265",
+    "cover_provider": "SteamGridDB"
+  },
+  "Momodora: Moonlit Farewell": {
+    "_lookup_complete": true,
+    "release_date": "2024-01-11",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4d4322b3338d7913.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ef105db02ec9932e47255056e942bf51.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5317066",
+    "cover_provider": "SteamGridDB"
+  },
+  "Will It Press?": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Treasure Crabs": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Quantum Dodge": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Cubelight": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Slamwall": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Clair Obscur: Expedition 33": {
+    "_lookup_complete": true,
+    "release_date": "2025-04-24",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/09e4fc15966f2b5c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e7fff0c2739cf86c8aa5559eefe74220.png",
+    "cover_source": "https://www.steamgriddb.com/game/5454521",
+    "cover_provider": "SteamGridDB"
+  },
+  "Blue Prince": {
+    "_lookup_complete": true,
+    "release_date": "2025-04-10",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7eba2eff32b5b1c7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/325ab9f1731fdc4a2cffc4de6f5c480b.png",
+    "cover_source": "https://www.steamgriddb.com/game/5282856",
+    "cover_provider": "SteamGridDB"
+  },
+  "Shadowverse: Worlds Beyond": {
+    "_lookup_complete": true,
+    "release_date": "2025-06-17",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b4d862c0715e5b3f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/6a2566e106ac19ce485d1c17b7abb1ba.png",
+    "cover_source": "https://www.steamgriddb.com/game/5481910",
+    "cover_provider": "SteamGridDB"
+  },
+  "Vellum": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f46362d8281e0d1d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/22ce99117c627f234d503b6642f5f52d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5434200",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Great Villainess: Strategy of Lily": {
+    "_lookup_complete": true,
+    "release_date": "2025-07-24",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/18719d1179a0861e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/14cf1cab8e63639439aa306f65c3549d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5419192",
+    "cover_provider": "SteamGridDB"
+  },
+  "Stranger of Paradise: Final Fantasy Origin": {
+    "_lookup_complete": true,
+    "release_date": "2022",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/70b3c05624b47adc.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/f99e65e8f3d0b75baecdc889eff698a5.png",
+    "cover_source": "https://www.steamgriddb.com/game/5310834",
+    "cover_provider": "SteamGridDB"
+  },
+  "Hollow Knight: Silksong": {
+    "_lookup_complete": true,
+    "release_date": "2025-09-04",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/aba81990450d15ad.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/352b19056ce934568b956d68cbcde3b5.png",
+    "cover_source": "https://www.steamgriddb.com/game/1043",
+    "cover_provider": "SteamGridDB"
+  },
+  "Hades II": {
+    "_lookup_complete": true,
+    "release_date": "2024-05-06",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cf6530edd16250d7.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ac0169aeecebc5576074bb1dce51e382.png",
+    "cover_source": "https://www.steamgriddb.com/game/5376530",
+    "cover_provider": "SteamGridDB"
+  },
+  "IDLE BOSS RUSH": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Idle Colony": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Megabonk": {
+    "_lookup_complete": true,
+    "release_date": "2025-09-18",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4a7132de8e38f924.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/07e0ffce6d78f826401adf7e5b92c6e5.png",
+    "cover_source": "https://www.steamgriddb.com/game/5474501",
+    "cover_provider": "SteamGridDB"
+  },
+  "BALLxPIT": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "No, I'm not a Human": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/d68c2ec0d9c36373.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/322e9121cacccd2bf1cb0a495bd26fcc.png",
+    "cover_source": "https://www.steamgriddb.com/game/5463787",
+    "cover_provider": "SteamGridDB"
+  },
+  "Resident Evil 7": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Platform 8": {
+    "_lookup_complete": true,
+    "release_date": "2024-05-31",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/985ecf71d317f36c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e8373f0a51f3250cf2cc743b99d4908a.png",
+    "cover_source": "https://www.steamgriddb.com/game/5448196",
+    "cover_provider": "SteamGridDB"
+  },
+  "Legends of Dragaea: Idle Dungeons": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Chillquarium": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7fc573b4e79aa824.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/7deda4253796f5b8d54e212905899094.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5378518",
+    "cover_provider": "SteamGridDB"
+  },
+  "Overbrew": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Shrines of Wrath": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Shelldiver": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4ae675dcb190e7a6.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/805256acfd41abca0321b29db0bae252.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5496183",
+    "cover_provider": "SteamGridDB"
+  },
+  "Lone Fungus: Melody of Spores": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Void Miner": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Squares": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/cdbfc35fb24a591b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/3db81379c062d0b439d0e2c96db78704.png",
+    "cover_source": "https://www.steamgriddb.com/game/24948",
+    "cover_provider": "SteamGridDB"
+  },
+  "Marisa!ReturnTheBook!": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Maktala: Slime Lootfest": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "A Game About Feeding A Black Hole": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/0f9f94de5c05046d.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bad972ff7c83554f30333029ea585fa2.png",
+    "cover_source": "https://www.steamgriddb.com/game/5492946",
+    "cover_provider": "SteamGridDB"
+  },
+  "Advent Incremental": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Kotama and Academy Citadel": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "The Case of the Golden Idol": {
+    "_lookup_complete": true,
+    "release_date": "2022-10-13",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/4849acaf90d9870d.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/fcdb8bdeff1a0cf49a1ad6cde09a9a1b.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5292366",
+    "cover_provider": "SteamGridDB"
+  },
+  "Arknights: Endfield": {
+    "_lookup_complete": true,
+    "release_date": "2026-01-22",
+    "release_year": 2026,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/465a022cd1130404.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/83d54de90c45accd18b3eb06e959f4c8.png",
+    "cover_source": "https://www.steamgriddb.com/game/5495879",
+    "cover_provider": "SteamGridDB"
+  },
+  "Outhold": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e55ba90a02e518e0.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a6cc30eaa581e36b698d4f7a99207b54.png",
+    "cover_source": "https://www.steamgriddb.com/game/5490251",
+    "cover_provider": "SteamGridDB"
+  },
+  "Pokéclicker": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/666743460b31e149.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e4e343445fc2905d334a766458615a46.png",
+    "cover_source": "https://www.steamgriddb.com/game/5285315",
+    "cover_provider": "SteamGridDB"
+  },
+  "Scritchy Scratchy": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3c794a827aa7a8e1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a623f25ca5552954d6c52f488058baa3.png",
+    "cover_source": "https://www.steamgriddb.com/game/5500324",
+    "cover_provider": "SteamGridDB"
+  },
+  "Succubox": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Slay the Spire II": {
+    "_lookup_complete": true,
+    "release_date": "2025",
+    "release_year": 2025,
+    "_cover_lookup_complete": true
+  },
+  "Haste": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/46c480cd1a7b9f83.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/575f9cca5555d662916d868eb814f4c7.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5437301",
+    "cover_provider": "SteamGridDB"
+  },
+  "Super Meat Boy 3D": {
+    "_lookup_complete": true,
+    "release_date": "2026-03-31",
+    "release_year": 2026,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f1c350aa7c842764.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/bc30df64945af0ad6839b8df3988a368.png",
+    "cover_source": "https://www.steamgriddb.com/game/5491712",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Artisan of Glimmith": {
+    "_lookup_complete": true,
+    "release_date": "2026-03-17",
+    "release_year": 2026,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/61d23b21eec36a50.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1c007d78d0432461d98601e12b663cf2.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5522756",
+    "cover_provider": "SteamGridDB"
+  },
+  "Journey to Ascension": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Save our Queen": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Idle Crush Factory": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "ComboCraft Legendary": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Sludgineers": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Vampire Crawlers": {
+    "_lookup_complete": true,
+    "release_date": "2026-04-21",
+    "release_year": 2026,
+    "_cover_lookup_complete": true
+  },
+  "Shapez 2": {
+    "_lookup_complete": true,
+    "release_date": "2024-08-15",
+    "release_year": 2024,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/347a8a5c1a527b3e.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/53eb309b664985fa34284248a12d3ee8.png",
+    "cover_source": "https://www.steamgriddb.com/game/5362850",
+    "cover_provider": "SteamGridDB"
+  },
+  "Koltera II": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Cats are Mining": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Master Healer Kale with useless party": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/c165b8b3446462c3.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/b36336c49cab334fe762cceb365f3662.png",
+    "cover_source": "https://www.steamgriddb.com/game/5525905",
+    "cover_provider": "SteamGridDB"
+  },
+  "EverCraft 2": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Pipistrello and the Cursed Yoyo": {
+    "_lookup_complete": true,
+    "release_date": "2025-05-28",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f4d6517f5d64c67b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/861c45bb2499e55058bfe0f9f4fb3029.png",
+    "cover_source": "https://www.steamgriddb.com/game/5447043",
+    "cover_provider": "SteamGridDB"
+  },
+  "Critters for Sale": {
+    "_lookup_complete": true,
+    "release_date": "2021-06-03",
+    "release_year": 2021,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/e37f5ca77c98001f.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/569b6782ce5885fc4abf21cfde38f7d7.png",
+    "cover_source": "https://www.steamgriddb.com/game/4923444",
+    "cover_provider": "SteamGridDB"
+  },
+  "Mycopunk": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/bb2e847a3784bfb1.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/827f8098ae3d12624404c994a6f67f5d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5486877",
+    "cover_provider": "SteamGridDB"
+  },
+  "Witch's Apocalyptic Journey": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Mina the Hollower": {
+    "_lookup_complete": true,
+    "release_date": "2026-05-29",
+    "release_year": 2026,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1e1864199daa3291.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/223dd4b5167dec96217e7b0404955a98.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5318843",
+    "cover_provider": "SteamGridDB"
+  },
+  "Dota 2": {
+    "_lookup_complete": true,
+    "release_date": "2013-07-09",
+    "release_year": 2013,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/b6e27bc501a3020b.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/cd94516dfa071f5f8b6b4eb4e24271e6.png",
+    "cover_source": "https://www.steamgriddb.com/game/15831",
+    "cover_provider": "SteamGridDB"
+  },
+  "Elden Ring": {
+    "_lookup_complete": true,
+    "release_date": "2022-02-25",
+    "release_year": 2022,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/959ca563655694c6.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a0abf0396a718b8982fce0b80181d8cb.png",
+    "cover_source": "https://www.steamgriddb.com/game/5277816",
+    "cover_provider": "SteamGridDB"
+  },
+  "Skigill": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "9 Kings": {
+    "_lookup_complete": true,
+    "release_date": "2025-05-23",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/381922c24c329e28.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/d41699ebb249a8841f1243a8501cd347.png",
+    "cover_source": "https://www.steamgriddb.com/game/5445158",
+    "cover_provider": "SteamGridDB"
+  },
+  "Metal Gear Solid 4: Guns of the Patriots": {
+    "_lookup_complete": true,
+    "release_date": "2008-06-12",
+    "release_year": 2008,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/171c0d6104028838.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a634d1d7af940834c11c37d693c4784e.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/33935",
+    "cover_provider": "SteamGridDB"
+  },
+  "Phoenix Wright: Ace Attorney - Dual Destinies": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/f3b752fcc9ff6218.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/24c54c734985cf1c4d3ef17f9cf923f1.png",
+    "cover_source": "https://www.steamgriddb.com/game/35887",
+    "cover_provider": "SteamGridDB"
+  },
+  "IGTAP: an Incremental Game That's Also a Platformer": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1b41866eb4880d9c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ed6bf64cf026631cfbc3e3579d20efc9.png",
+    "cover_source": "https://www.steamgriddb.com/game/5517769",
+    "cover_provider": "SteamGridDB"
+  },
+  "The Mermaid Mask": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Detective Grimoire": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/1dd6f5a0f434938c.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/2a2a919ea2a12b8255429f33eb51a1a8.png",
+    "cover_source": "https://www.steamgriddb.com/game/3700",
+    "cover_provider": "SteamGridDB"
+  },
+  "Sol Cesto": {
+    "_lookup_complete": true,
+    "release_date": "2025-05-27",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/44882ce6b0fac2dd.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e111941885f4aa6befd758ae7eea9474.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5439137",
+    "cover_provider": "SteamGridDB"
+  },
+  "Tangle Tower": {
+    "_lookup_complete": true,
+    "release_date": "2019",
+    "release_year": 2019,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/a7a1ce141057dcbb.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/a8bd545a31be19b890bfbcdcc5e71446.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5248348",
+    "cover_provider": "SteamGridDB"
+  },
+  "Castlevania: Belmont's Curse": {
+    "_lookup_complete": true,
+    "release_date": "2026-10-15",
+    "release_year": 2026,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/2f12654e5f016f38.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/5e405beb87c8bc251a3c8fbc2555c52d.png",
+    "cover_source": "https://www.steamgriddb.com/game/5517571",
+    "cover_provider": "SteamGridDB"
+  },
+  "Ghost Trick: Phantom Detective": {
+    "_lookup_complete": true,
+    "release_date": "2010-06-19",
+    "release_year": 2010,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/18824eced91771c2.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/1dbcbdaa196026e26e999387e7bc1725.png",
+    "cover_source": "https://www.steamgriddb.com/game/37757",
+    "cover_provider": "SteamGridDB"
+  },
+  "Damage Numbers Go Brr!": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Psycho-Sleuth": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true
+  },
+  "Sonic Racing: CrossWorlds": {
+    "_lookup_complete": true,
+    "release_date": "2025-09-25",
+    "release_year": 2025,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/7e26f307be898d16.png",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/e03becc193190ae1cccc73fc679ebcc1.png",
+    "cover_source": "https://www.steamgriddb.com/game/5479054",
+    "cover_provider": "SteamGridDB"
+  },
+  "MONOMOON": {
+    "_lookup_complete": true,
+    "_cover_lookup_complete": true,
+    "cover": "images/covers/3a6db13ca68d464e.jpg",
+    "cover_url": "https://cdn2.steamgriddb.com/grid/ea7aa54867536ef176426819ae221249.jpg",
+    "cover_source": "https://www.steamgriddb.com/game/5497986",
+    "cover_provider": "SteamGridDB"
+  }
+}

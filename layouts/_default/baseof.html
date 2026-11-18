@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ .Description | default site.Params.description }}">
+    <title>{{ if .Title }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+    {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+    {{ $script := resources.Get "js/sort-games.js" | minify | fingerprint }}
+    <script defer src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="site-name" href="{{ "" | relURL }}">{{ site.Title }}</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ "" | relURL }}">Home</a>
+        <a href="{{ "games/" | relURL }}">Games</a>
+        <a href="{{ "hall-of-fame/" | relURL }}">Hall of Fame</a>
+      </nav>
+    </header>
+    <main id="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <p>A personal record of the games I’ve played.</p>
+    </footer>
+  </body>
+</html>

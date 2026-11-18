@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ $games := hugo.Data.games | default slice }}
+  {{ $enrichment := hugo.Data.enrichment | default dict }}
+  <section class="page-heading">
+    <p class="eyebrow">The complete collection</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+    <p class="result-count">{{ len $games }} games</p>
+  </section>
+  <section class="catalogue" aria-label="Games">
+    <div class="sort-bar">
+      <label for="game-sort">Sort by</label>
+      <select id="game-sort" data-sort-control>
+        <option value="title">Title (A–Z)</option>
+        <option value="release-date">Release date (oldest first)</option>
+        <option value="play-year">Play year (earliest first)</option>
+      </select>
+      <span class="sort-help">Games without a date or year appear last.</span>
+    </div>
+    <div class="game-list">
+      {{ range sort $games "title" }}
+        {{ $details := index $enrichment .title }}
+        {{ partial "game-card.html" (dict "game" . "details" $details) }}
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
