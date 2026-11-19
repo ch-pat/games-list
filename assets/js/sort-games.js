@@ -5,6 +5,24 @@ const normalize = (value) => value
   .replace(/[^\p{Letter}\p{Number}]+/gu, " ")
   .trim();
 
+const themeToggle = document.querySelector("[data-theme-toggle]");
+if (themeToggle) {
+  const updateThemeToggle = () => {
+    const isNightMode = document.documentElement.dataset.theme === "dark";
+    themeToggle.setAttribute("aria-pressed", String(isNightMode));
+    themeToggle.setAttribute("aria-label", isNightMode ? "Switch to day mode" : "Enable night mode");
+    themeToggle.textContent = isNightMode ? "Day mode" : "Night mode";
+  };
+
+  updateThemeToggle();
+  themeToggle.addEventListener("click", () => {
+    const nextTheme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = nextTheme;
+    localStorage.setItem("games-list-theme", nextTheme);
+    updateThemeToggle();
+  });
+}
+
 function editDistance(left, right) {
   const rows = [Array.from({ length: right.length + 1 }, (_, index) => index)];
 

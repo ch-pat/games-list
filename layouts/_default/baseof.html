@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ .Description | default site.Params.description }}">
     <title>{{ if .Title }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+    <script>
+      const savedTheme = localStorage.getItem("games-list-theme");
+      document.documentElement.dataset.theme =
+        savedTheme === "light" || savedTheme === "dark"
+          ? savedTheme
+          : window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    </script>
     {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
     {{ $script := resources.Get "js/sort-games.js" | minify | fingerprint }}
@@ -18,6 +25,7 @@
         <a href="{{ "" | relURL }}">Home</a>
         <a href="{{ "games/" | relURL }}">Games</a>
         <a href="{{ "hall-of-fame/" | relURL }}">Hall of Fame</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Enable night mode" aria-pressed="false">Night mode</button>
       </nav>
     </header>
     <main id="main">

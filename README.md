@@ -2,6 +2,8 @@
 
 A three-page Hugo site for a personal video game catalogue: a home page, the complete games list, and a Hall of Fame containing only starred games.
 
+The site uses a soft green palette, follows your system color preference by default, and offers a night mode toggle in the header. Your choice is saved in the browser.
+
 ## Editing the catalogue
 
 Edit [`data/games.json`](data/games.json), the single source of game information. Each entry needs a title; all other fields are optional and omitted from the site when blank. For example:
